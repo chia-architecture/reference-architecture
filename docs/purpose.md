@@ -52,6 +52,12 @@ CHIA aims to:
 
 ---
 
+## Approach
+
+The reference architecture is intended to be developed in an **open, collaborative, and transparant environment** ensuring all stakeholders can contribute.
+
+---
+
 
 ## Constraints
 
