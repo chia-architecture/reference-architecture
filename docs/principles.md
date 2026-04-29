@@ -1,3 +1,20 @@
+# Principles
+
+## Goal of this document
+This document defines the core principles of the Caribbean Healthcare Interoperability Architecture (CHIA).  
+These principles guide design decisions, ensure consistency across the architecture, and support cross-border healthcare interoperability.
+
+They are intended for policymakers, architects, and implementers involved in the design and operation of interoperable healthcare systems.
+
+---
+
+## List of principles
+
+1. People-Centred Care  
+2. Interoperability by Design  
+
+---
+
 ## 01 Principle: People-Centred Care (example)
 
 **Explanation**  
