@@ -1,20 +1,28 @@
-## Principle: People-Centred Care (example)
+## 01 Principle: People-Centred Care (example)
 
-| Element | Description |
-|--------|-------------|
-| **Explanation** | In everything we do, we consider the people involved—patients, caregivers, and healthcare professionals. |
-| **Rationale** | Healthcare exists to serve people. A focus on well-being leads to better outcomes and sustainable systems. |
-| **Implications** | 
-- We listen to patients and caregivers  
-- Communication is understandable  
-- Shared decision-making is supported  
-- Digital inclusion is ensured  
-- Patients can contribute to their own data  
-- Care is delivered at home when possible  
-|
-| **Source** | Based on ZiRA/Sigra, translated adapted for cross-border carribbean context |
+**Explanation**  
+In all activities, we place people at the centre—patients, their caregivers, and healthcare professionals.
 
----
+**Rationale**  
+We provide care to citizens and support healthcare professionals. A strong focus on well-being, experience, and collaboration improves patient outcomes, enhances the quality of care, and contributes to more efficient and sustainable healthcare delivery.
 
-## Principle: Interoperability by Design (example)
+**Implications**
+- We actively listen to and take into account the needs and preferences of patients and their caregivers  
+- Communication is clear, understandable, and tailored to the patient  
+- Care processes support shared decision-making between patient and healthcare professional  
+- Digital care is applied where appropriate, while ensuring inclusion of people with limited digital skills  
+- Patients are enabled to take control, including contributing to or managing their own health data where appropriate  
+- Digital services are designed as an integrated, user-friendly experience and are available whenever possible (ideally 24/7)  
+- Care is delivered in the home setting when possible, and in healthcare facilities when necessary  
+- We support the health and well-being of healthcare professionals  
+- Healthcare professionals are encouraged and empowered to contribute ideas and improvements  
+- Healthcare professionals are actively involved in changes to their work and processes  
+- Flexible working (independent of time and location) is supported where possible  
+- Repetitive tasks are automated, allowing professionals to focus on activities where they add the most value  
+- We are responsible for providing a user-friendly and inclusive experience for both patients and healthcare professionals  
+
+**Source**  
+Based on ZiRA/Sigra, translated/adapted for a regional and cross-border healthcare context
+
+## 02 Principle: Interoperability by Design (example)
 
