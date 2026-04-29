@@ -21,6 +21,19 @@ You can contribute in two simple ways:
 Click the “Edit” button on any page to propose a change.
 
 ## Structure
-- Principles
-- Building blocks
-- Architecture views
+The repository is organised into the following main sections:
+
+- **/docs**  
+  Core documentation, including purpose, principles, architecture, and governance.
+
+- **/building-blocks**  
+  Reusable architecture components (e.g. patient identity, consent, terminology services).
+
+- **/diagrams**  
+  Visual representations of the architecture (e.g. mermaid format for collaboration).  
+
+- **/models**  
+  Formal architecture models (e.g. ArchiMate exchange format).
+
+- **/.github**  
+  Contribution templates and repository configuration.
