@@ -1,0 +1,28 @@
+site_name: CHIA
+site_description: Caribbean Healthcare Interoperability Architecture
+repo_url: https://github.com/chia-architecture/reference-architecture
+repo_name: chia-architecture/reference-architecture
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Purpose: docs/purpose.md
+  - Architecture Principles: docs/principles.md
+  - Use Cases:
+      - Overview: use-cases/index.md
+      - Planned Cross-Border Referral: use-cases/planned-referral.md
+      - Specialist Consultation: use-cases/specialist-consultation.md
+  - Building Blocks: building-blocks/index.md
+  - Decisions: decisions/index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
