@@ -2,6 +2,7 @@ site_name: Caribbean Healthcare Interoperability Architecture
 site_description: Caribbean Healthcare Interoperability Architecture
 repo_url: https://github.com/chia-architecture/reference-architecture
 repo_name: chia-architecture/reference-architecture
+edit_uri: edit/main/docs/
 
 theme:
   name: material
