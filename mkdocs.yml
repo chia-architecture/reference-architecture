@@ -23,7 +23,7 @@ nav:
   - Home: index.md
   - Purpose: purpose.md
   - Principles: 
-      - Introduction: principles.md
+      - Introduction: principles/index.md
       - 01 Principle: principles/01-principle.md
       - 02 Principle: principles/02-principle.md
       - 03 Principle: principles/03-principle.md
