@@ -26,8 +26,11 @@ The repository is organised into the following main sections:
 - **/docs**  
   Core documentation, including purpose, principles, architecture, and governance.
 
-- **/building-blocks**  
+- **/docs/building-blocks**  
   Reusable architecture components (e.g. patient identity, consent, terminology services).
+
+  - **/docs/use-cases**  
+  Practical use-cases potentially benefitting from the reference architecture.
 
 - **/diagrams**  
   Visual representations of the architecture (e.g. mermaid format for collaboration).  
