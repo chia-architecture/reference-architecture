@@ -11,5 +11,7 @@
 | Data source  | Value E  |
 | Information model  | Value E  |
 | Trust agreement framework  | Value E  |
-| Shared services  | Value E  |
+| Shared public services  | Value E  |
+| Shared healthcare services  | Value E  |
+
 
