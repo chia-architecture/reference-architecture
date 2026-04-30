@@ -40,6 +40,7 @@ nav:
       - Terminology: reference-architecture/terminology.md
       - Architecture view: reference-architecture/architecture-view.md
       - Building blocks: reference-architecture/building-blocks.md
+      - Architecture Decision Records: reference-architecture/architecture-decision-records.md
       - Related initiatives: reference-architecture/related-initiatives.md
   - Governance: governance.md
   - Use Cases:
