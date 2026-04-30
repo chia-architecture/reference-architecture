@@ -6,4 +6,6 @@ CHIA is an open, collaborative reference architecture for cross-border healthcar
 
 - [Purpose](purpose.md)
 - [Principles](principles.md)
+- [Reference Architecture](reference-architecture)
+- [Governance](governance.md)
 - [Use Cases](use-cases/index.md)
