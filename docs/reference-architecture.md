@@ -1,13 +1,5 @@
 # Reference Architecture
 
-
----
-
-## List of building blocks
-
-1. Example 1
-2. Example 2
-
 ---
 
 ## Architecture Decision Records
