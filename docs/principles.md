@@ -4,26 +4,6 @@ This page defines the core principles of the Caribbean Healthcare Interoperabili
 
 ---
 
-
-## 08 Principle: Decouplable
-
-**Explanation**  
-
-We aim to decouple components, systems, and layers so they function independently.
-
-**Rationale** 
-
-Decoupling leads to flexible, scalable, and maintainable architecture.
-
-**Implications** 
-
-- Functional decoupling: services operate independently.
-- Data decoupling: data structures are not tied to applications.
-- Technical decoupling: minimal dependencies between technologies.
-- Data context (who/where recorded) is clear.
-
-<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
-
 ## 09 Principle: Single registration at the source, multiple use
 
 **Explanation**  
