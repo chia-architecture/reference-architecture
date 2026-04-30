@@ -5,10 +5,19 @@ repo_name: chia-architecture/reference-architecture
 
 theme:
   name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: teal
+  font:
+    text: Roboto
+    code: Roboto Mono
   features:
+    - navigation.tabs
     - navigation.sections
     - navigation.top
     - search.highlight
+    - content.action.edit
 
 nav:
   - Home: index.md
