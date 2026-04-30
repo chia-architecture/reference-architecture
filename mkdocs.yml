@@ -19,7 +19,6 @@ nav:
       - Planned Cross-Border Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
   - Building Blocks: building-blocks/index.md
-  - Decisions: decisions/index.md
 
 markdown_extensions:
   - admonition
