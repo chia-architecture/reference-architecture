@@ -7,8 +7,8 @@ theme:
   name: material
   palette:
     - scheme: default
-      primary: indigo
-      accent: teal
+      primary: white
+      accent: blue
   font:
     text: Roboto
     code: Roboto Mono
@@ -38,3 +38,6 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css
