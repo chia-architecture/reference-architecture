@@ -13,7 +13,7 @@ theme:
 nav:
   - Home: index.md
   - Purpose: docs/purpose.md
-  - Architecture Principles: docs/principles.md
+  - Principles: docs/principles.md
   - Use Cases:
       - Overview: use-cases/index.md
       - Planned Cross-Border Referral: use-cases/planned-referral.md
