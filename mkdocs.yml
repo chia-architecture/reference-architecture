@@ -23,7 +23,8 @@ nav:
   - Home: index.md
   - Purpose: purpose.md
   - Principles: 
-      - 01 Principle: principles.md
+      - Intro: principles.md
+      - 01 Principle: principles/01-principle.md
   - Reference Architecture: reference-architecture.md
   - Governance: governance.md
   - Use Cases:
