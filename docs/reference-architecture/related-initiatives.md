@@ -16,3 +16,13 @@ While focused on the region of Amsterdam in the Netherlands, many of the archite
 ## Hospital Reference Architecture (ZIRA)
 
 While focused on an architecture for hospitals in the Netherlands, many reference architectures (e.g., Sigra) is based on the principles and capabilities described in the ZIRA.
+
+## Digital Public Infrastructure
+Digital Public Infrastructure (DPI) is an WHO initiative and refers to foundational, interoperable digital systems—such as digital ID, payments, and data exchange—that enable essential public and private services at scale. 
+
+## Digital Public Infrastucture for Health
+Digital Public Infrastructure for Health is an WHO initiative and refers to foundational, interoperable digital health systems—such as data exchange—that enable essential health services at scale.
+
+**Digital health platform handbook: building a digital information infrastructure (infostructure) for health**
+
+World Health Organization, & International Telecommunication Union. (2020). Digital health platform handbook: building a digital information infrastructure (infostructure) for health. World Health Organization.
