@@ -41,7 +41,7 @@ Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building t
 
 **Sigra's Reference Architecture**
 
-While focused on the region of Amsterdam in the Netherlands, many of this architecure is inspired by the regional reference architecture of Sigra where data availability is desired for public health and wellbeing.
+While focused on the region of Amsterdam in the Netherlands, many of the architecure is inspired by the regional reference architecture of Sigra where data availability is desired for public health and wellbeing. The reference architecture uses a similar structure and base components to then adapt it to the needs of the Caribbean region.
 
 
 ---
