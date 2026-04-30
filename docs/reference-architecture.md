@@ -1,11 +1,5 @@
 # Reference Architecture
 
-## Goal of this document
-
----
-
-## Terminology
-
 ---
 
 ## Bescription
