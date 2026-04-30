@@ -30,6 +30,10 @@
 
 ## References to other initiatives
 
+**Paving the Pan American Highway for Digital Health**
+
+he general objective is to provide high-quality, safe, and efficient digital healthcare services in the region and to strengthen regional resilience to epidemics and public health emergencies through the creation of the Pan American Route for Digital Health. The specific objectives are (i) to establish a harmonized legal framework and acquire the necessary regional digital infrastructure for cross-border data exchange; (ii) to improve national preparedness for implementing cross-border digital health services; and (iii) to empower individuals to consult and share their medical data, giving them greater control over their health.
+
 **Carribbean Connect**
 
 Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
