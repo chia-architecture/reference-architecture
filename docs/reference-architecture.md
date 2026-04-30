@@ -39,4 +39,9 @@ Initiated by the Inter-American Development Bank (IND) and the Pan American Heal
 
 Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
 
+**Sigra's Reference Architecture**
+
+While focused on the region of Amsterdam in the Netherlands, many of this architecure is inspired by the regional reference architecture of Sigra where data availability is desired for public health and wellbeing.
+
+
 ---
