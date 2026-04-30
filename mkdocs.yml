@@ -30,6 +30,8 @@ nav:
       - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
       - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
+  - Contribute: contribute.md
+  - About: about.md
 
 markdown_extensions:
   - admonition
