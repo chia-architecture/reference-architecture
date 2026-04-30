@@ -2,17 +2,18 @@
 
 We welcome contributions from anyone.
 
-You can contribute in two simple ways:
+At this stage, we are especially interested in suggestions, questions, and improvements to the structure, scope, use cases, and guiding principles.
 
 ## Suggest a change
-👉 [Open a suggestion](../../issues/new?template=suggest_change.md)
+
+You can suggest a change by opening a GitHub issue:
+
+[Open a suggestion](https://github.com/chia-architecture/reference-architecture/issues/new?template=suggest_change.md)
 
 ## Edit directly
-Click the “Edit this page” button on any page to propose a change.
 
-## Prerequisite
-Both ways only require a basic github account.
+You can also propose a direct edit by clicking the **Edit this page** button on any page.
 
-At this point we are happy to accept any new suggestions.
+**Prerequisite** Both options only require a basic GitHub account.
 
-Thanks in advanced!
+Thank you in advance for contributing.
