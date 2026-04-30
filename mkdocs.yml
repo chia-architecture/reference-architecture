@@ -27,13 +27,13 @@ nav:
       - Introduction: principles/index.md
       - People-Centred Care: principles/01-principle.md
       - Value-driven: principles/02-principle.md
-      - International before national before local: principles/03-principle.md
-      - Reuse before buy before build: principles/04-principle.md
+      - International: principles/03-principle.md
+      - Reuse before buy: principles/04-principle.md
       - Secure and robust: principles/05-principle.md
       - Standardized: principles/06-principle.md
       - Flexible: principles/07-principle.md
       - Decouplable: principles/08-principle.md
-      - Single registration at the source: principles/09-principle.md
+      - Single registration: principles/09-principle.md
       - Continuity: principles/10-principle.md
   - Reference Architecture:
       - Introduction: reference-architecture/index.md
