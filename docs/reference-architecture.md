@@ -30,4 +30,8 @@
 
 ## References to other initiatives
 
+**Carribbean Connect**
+
+Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
+
 ---
