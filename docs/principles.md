@@ -11,7 +11,7 @@ This page defines the core principles of the Caribbean Healthcare Interoperabili
 
 ---
 
-## 01 Principle: People-Centred Care (example)
+## 01 Principle: People-Centred Care
 
 **Explanation**  
 
@@ -23,18 +23,206 @@ We provide care to citizens and support healthcare professionals. A strong focus
 
 **Implications** 
 
-- We actively listen to and take into account the needs and preferences of patients and their caregivers
-- Communication is clear, understandable, and tailored to the patient
-- Care processes support shared decision-making between patient and healthcare professional
-- Digital care is applied where appropriate, while ensuring inclusion of people with limited digital skills
-- Patients are enabled to take control, including contributing to or managing their own health data where appropriate
-- Digital services are designed as an integrated, user-friendly experience and are available whenever possible
-- We support the health and well-being of healthcare professionals
-- Healthcare professionals are actively involved in changes to their work and processes
-- Repetitive tasks are automated, allowing professionals to focus on activities where they add the most value
-- We are responsible for providing a user-friendly and inclusive experience for both patients and healthcare professionals
+- We listen to and take into account what the citizen and any informal caregiver say.
+- We ensure communication is understandable for the citizen.
+- Care processes are designed so that professional and citizen decide together (“shared decision-making”).
+- We communicate and treat digitally where possible, while considering citizens with limited digital skills.
+- We enable citizens to take control, e.g. by adding data to their record.
+- We provide care at home when possible, in institutions when necessary.
+- We contribute to the health and wellbeing of employees.
+- Employees are encouraged to bring forward new ideas and are involved in changes.
+- We enable location- and time-independent work where possible.
+- We automate repetitive work.
+- We ensure a user-friendly and inclusive experience briging cultural differences.
 
-<small>Source: Based on ZiRA/Sigra, adapted for cross-border context.</small>
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
 
-## 02 Principle: Interoperability by Design (example)
+## 02 Principle: Value-driven
+
+**Explanation**  
+
+We only do things that add value, for example for quality improvement, satisfaction of patients or employees, efficiency, and safety.
+
+**Rationale** 
+
+Healthcare organizations have a societal responsibility to keep care good, accessible, and affordable. This requires conscious choices between aspects that add value, aiming for an optimal balance between costs and benefits.
+
+**Implications** 
+
+- We deliver the right care in the right place at the right time.
+- We only implement solutions if they enhance work processes.
+- We measure whether expected value is achieved.
+- We document expected added value and costs in advance.
+- We do not allow duplication in IT functionality.
+- We reduce waste and turn-off unused resources.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 03 Principle: International before national before local
+
+**Explanation**  
+
+From efficiency, standardization, and harmonization perspectives, we prefer international IT components over national ones, and national over local ones.
+
+**Rationale** 
+
+Clear allocation of what is solved at which level is essential. International provisions are leading, national precede local solutions. This promotes standardization and uniformity and reduces the need for local development.
+
+**Implications** 
+
+- In design, we prefer international over national, and national over local components.
+- We inventory available components and assess their suitability.
+- We preferably select, procure, and implement solutions jointly with international partners.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 04 Principle: Reuse before buy before build
+
+**Explanation**  
+
+Reuse and reduction of complexity are primary starting points in information provision.
+
+**Rationale** 
+
+Developing and managing software ourselves is relatively expensive, while standard components often suffice and benefit from scale and shared knowledge. Customization leads to higher costs and hinders upgrades.
+
+**Implications** 
+
+- Use existing international or natinal components if suitable.
+- First check for available standard components.
+- Only choose customization if no suitable standard exists.
+- Avoid adapting standard software unless it becomes part of the standard.
+- Be willing to make concessions to enable shared solutions.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 05 Principle: Secure and robust
+
+**Explanation**  
+
+Citizens, professionals, and others must be able to trust that safety is central and privacy is safeguarded.
+
+**Rationale** 
+
+In healthcare, citizens must be able to trust that their data is secure. Safe care requires both data security and a sense of safety for staff.
+
+**Implications** 
+
+- We comply with national laws and regulations.
+- Access is limited to authorized persons.
+- We safeguard availability, integrity, and confidentiality.
+- We log and regularly review access to sensitive data.
+- We exchange only necessary data.
+- Security is integrated in design and implementation.
+- Transparency exists about who accesses data.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 06 Principle: Standardized
+
+**Explanation**  
+
+In developing cross-border information exchange services, we comply with international and, where applicable, regional agreements, standards, and guidelines.
+
+**Rationale** 
+
+Standardization supports reuse, scalability, automation, and reduces dependence on specific vendors.
+
+**Implications** 
+
+- We follow international agreements (“apply or explain”).
+- We design using the Nictiz interoperability model.
+- We implement according to agreed exchange standards (e.g. Twiin).
+- We use open standards and interfaces.
+- We standardize processes and data.
+- We apply FAIR data principles.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+
+## 07 Principle: Flexible
+
+**Explanation**  
+
+Solutions are flexible: easy to expand, adapt, and replace. They are modular, with clearly defined components and interfaces.
+
+**Rationale** 
+
+Modularity simplifies change, reduces complexity, and improves maintainability and scalability.
+
+**Implications** 
+
+- Process steps are reusable.
+- Systems are modular.
+- Data is separated from functionality.
+- Applications can use external data and functions.
+- We avoid vendor lock-in.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 08 Principle: Decouplable
+
+**Explanation**  
+
+We aim to decouple components, systems, and layers so they function independently.
+
+**Rationale** 
+
+Decoupling leads to flexible, scalable, and maintainable architecture.
+
+**Implications** 
+
+- Functional decoupling: services operate independently.
+- Data decoupling: data structures are not tied to applications.
+- Technical decoupling: minimal dependencies between technologies.
+- Data context (who/where recorded) is clear.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 09 Principle: Single registration at the source, multiple use
+
+**Explanation**  
+
+Data is recorded once at the source and then made available for multiple uses.
+
+**Rationale** 
+
+High-quality data is essential. The source owner is responsible for quality. Data is meant to be used, not owned.
+
+**Implications** 
+
+- It is clear who owns the source record.
+- Data is entered once and reused.
+- Corrections happen at the source.
+- Data is machine-readable.
+- FAIR principles are applied.
+- Viewing data is preferred over copying.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+## 10 Principle: Continuity
+
+**Explanation**  
+
+In everything we do, we safeguard continuity of care by identifying and mitigating risks early.
+
+**Rationale** 
+
+Healthcare delivery is critical; continuity must never be at risk.
+
+**Implications** 
+
+- We perform risk analyses for changes.
+- We choose proven solutions.
+- Critical systems are highly available.
+- Solutions are documented before production.
+- Innovations are controlled and tested.
+- Data is stored so it can be migrated.
+- Exit strategies are defined beforehand.
+
+<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+
+
+
+
 
