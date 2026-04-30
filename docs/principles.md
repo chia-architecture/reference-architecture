@@ -21,7 +21,8 @@ In all activities, we place people at the centre—patients, their caregivers, a
 
 We provide care to citizens and support healthcare professionals. A strong focus on well-being, experience, and collaboration improves patient outcomes, enhances the quality of care, and contributes to more efficient and sustainable healthcare delivery.
 
-**Implications**
+<details>
+<summary><strong>Implications</strong></summary>
 
 - We actively listen to and take into account the needs and preferences of patients and their caregivers  
 - Communication is clear, understandable, and tailored to the patient  
@@ -35,10 +36,11 @@ We provide care to citizens and support healthcare professionals. A strong focus
 - Healthcare professionals are actively involved in changes to their work and processes  
 - Flexible working (independent of time and location) is supported where possible  
 - Repetitive tasks are automated, allowing professionals to focus on activities where they add the most value  
-- We are responsible for providing a user-friendly and inclusive experience for both patients and healthcare professionals  
+- We are responsible for providing a user-friendly and inclusive experience for both patients and healthcare professionals 
 
-**Source**  
-Based on ZiRA/Sigra, translated/adapted for a regional and cross-border healthcare context
+</details>
+
+<sub>Source: Based on ZiRA/Sigra, adapted for cross-border context</sub>
 
 ## 02 Principle: Interoperability by Design (example)
 
