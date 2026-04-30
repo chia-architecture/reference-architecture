@@ -35,7 +35,12 @@ nav:
       - 08 Principle: principles/08-principle.md
       - 09 Principle: principles/09-principle.md
       - 10 Principle: principles/10-principle.md
-  - Reference Architecture: reference-architecture.md
+  - Reference Architecture:
+      - Introduction: reference-architecture/index.md
+      - Terminology: reference-architecture/terminology.md
+      - Architecture view: reference-architecture/architecture-view.md
+      - Building blocks: reference-architecture/building-blocks.md
+      - Related initiatives: reference-architecture/related-initiatives.md
   - Governance: governance.md
   - Use Cases:
       - Overview: use-cases/index.md
