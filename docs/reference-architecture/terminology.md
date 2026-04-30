@@ -2,6 +2,8 @@
 
 | Term | Meaning |
 |----------|----------|
+| Building block  | Value E  |
+| Architecture  | Value E  |
 | End user  | X  |
 | Use-case  | Value E  |
 | Data consumer  | Value E  |
