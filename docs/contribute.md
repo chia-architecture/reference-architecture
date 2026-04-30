@@ -14,6 +14,4 @@ You can suggest a change by opening a GitHub issue:
 
 You can also propose a direct edit by clicking the **Edit this page** button on any page.
 
-**Prerequisite** Both options only require a basic GitHub account.
-
 Thank you in advance for contributing.
