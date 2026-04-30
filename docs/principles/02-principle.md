@@ -1,4 +1,4 @@
-# 02 Principle: Value-driven
+# Value-driven
 
 ## Explanation  
 
