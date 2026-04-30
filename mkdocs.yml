@@ -12,13 +12,17 @@ theme:
 
 nav:
   - Home: index.md
-  - Purpose: docs/purpose.md
-  - Principles: docs/principles.md
+  - Purpose: purpose.md
+  - Reference Architecture: reference-architecture.md
+  - Principles: principles.md
+  - Governance: governance.md
   - Use Cases:
       - Overview: use-cases/index.md
-      - Planned Cross-Border Referral: use-cases/planned-referral.md
+      - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
+      - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
-  - Building Blocks: building-blocks/index.md
+  - Building Blocks:
+      - Overview: building-blocks/index.md
 
 markdown_extensions:
   - admonition
