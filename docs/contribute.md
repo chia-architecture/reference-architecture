@@ -2,7 +2,7 @@
 
 We welcome contributions from anyone.
 
-At this stage, we are especially interested in suggestions, questions, and improvements to the structure, scope, use cases, and guiding principles.
+At this stage, we are especially interested in suggestions, questions, and improvements to the structure, purpose, use cases, and guiding principles.
 
 ## Suggest a change
 
