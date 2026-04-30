@@ -4,42 +4,6 @@ This page defines the core principles of the Caribbean Healthcare Interoperabili
 
 ---
 
-## List of principles
-
-1. People-Centred Care  
-2. Value-driven
-3. International before national before local
-4. Reuse before buy before build
-5. Secure and robust
-6. Standardized
-7. Flexible
-8. Decouplable
-9. Single registration at the source, multiple use
-10. Continuity
-
----
-
-## 02 Principle: Value-driven
-
-**Explanation**  
-
-We only do things that add value, for example for quality improvement, satisfaction of patients or employees, efficiency, and safety.
-
-**Rationale** 
-
-Healthcare organizations have a societal responsibility to keep care good, accessible, and affordable. This requires conscious choices between aspects that add value, aiming for an optimal balance between costs and benefits.
-
-**Implications** 
-
-- We deliver the right care in the right place at the right time.
-- We only implement solutions if they enhance work processes.
-- We measure whether expected value is achieved.
-- We document expected added value and costs in advance.
-- We do not allow duplication in IT functionality.
-- We reduce waste and turn-off unused resources.
-
-<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
-
 ## 03 Principle: International before national before local
 
 **Explanation**  
