@@ -1,0 +1,42 @@
+.md-header {
+  box-shadow: none;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.md-tabs {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.md-main__inner {
+  margin-top: 1.5rem;
+}
+
+.md-typeset h1 {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.md-typeset h2 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.md-typeset {
+  font-size: 0.8rem;
+  line-height: 1.7;
+}
+
+.md-typeset a {
+  font-weight: 500;
+}
+
+.md-typeset table:not([class]) {
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--md-accent-fg-color);
+  background: #f8fafc;
+  padding: 0.75rem 1rem;
+}
