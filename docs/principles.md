@@ -7,7 +7,15 @@ This page defines the core principles of the Caribbean Healthcare Interoperabili
 ## List of principles
 
 1. People-Centred Care  
-2. Interoperability by Design  
+2. Value-driven
+3. International before national before local
+4. Reuse before buy before build
+5. Secure and robust
+6. Standardized
+7. Flexible
+8. Decouplable
+9. Single registration at the source, multiple use
+10. Continuity
 
 ---
 
