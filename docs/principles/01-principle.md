@@ -1,4 +1,4 @@
-# 01 Principle: People-Centred Care
+# People-Centred Care
 
 ## Explanation 
 
