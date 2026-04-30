@@ -22,8 +22,8 @@ theme:
 nav:
   - Home: index.md
   - Purpose: purpose.md
-  - Reference Architecture: reference-architecture.md
   - Principles: principles.md
+  - Reference Architecture: reference-architecture.md
   - Governance: governance.md
   - Use Cases:
       - Overview: use-cases/index.md
