@@ -1,3 +1,3 @@
 # Architecture view
 
-![Architecture](../assets/views/services.svg)
+![Architecture](../assets/views/services-overview.svg)
