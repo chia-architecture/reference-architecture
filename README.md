@@ -1,4 +1,4 @@
-# Caribbean Healthcare Interoperability Architecture (CHIA)
+# [Caribbean Healthcare Interoperability Architecture (CHIA)](https://chia-architecture.github.io/reference-architecture/)
 
 ## Purpose
 Open, collaborative reference architecture for cross-border healthcare data sharing in the Caribbean.
