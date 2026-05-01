@@ -1,6 +1,6 @@
 # Governance
 
-CHIA is currently in an early stage and is initiated and maintained by an individual contributor.
+This project is currently in an early stage and is initiated and maintained by an individual contributor.
 
 ## Contribution model
 
