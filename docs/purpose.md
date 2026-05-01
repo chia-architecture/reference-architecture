@@ -30,6 +30,10 @@ The scope includes:
 The scope excludes:
 
 - Secondary use of data (e.g., research, population health analytics) in the initial phase  
+- Development of new healthcare terminology and semantics
+- Realising healthcare delivery
+- Development of trust agreeement frameworks
+- Development of foundational digital public health services
 - Replacement of national systems or vendor-specific implementations  
 - Detailed country-level implementation guidance  
 
