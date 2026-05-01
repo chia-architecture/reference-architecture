@@ -47,7 +47,7 @@ nav:
       - Related initiatives: reference-architecture/related-initiatives.md
   - Governance: governance.md
   - Use Cases:
-      - Overview: use-cases/index.md
+      - Introduction: use-cases/index.md
       - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
       - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
