@@ -14,4 +14,4 @@ Based on the vision and guiding principles, this initiative defines a set of dig
  
 
 # Open and transparant
-Everyone can participate by [suggesting changes](contribute.md). This means clinitians, caregivers, patients, directors, architects and policymakers can contribute. Interoperability requires consensus among people from different nations, disciplines, and cultures. All modifications are [publically available](https://github.com/chia-architecture/reference-architecture) building trust and transparancy.
+Everyone can participate by [suggesting changes](contribute.md). This means clinitians, caregivers, patients, directors, architects and policymakers can all contribute. Interoperability requires consensus among people from different nations, disciplines, and cultures. All modifications are [publically available](https://github.com/chia-architecture/reference-architecture) building trust and transparancy.
