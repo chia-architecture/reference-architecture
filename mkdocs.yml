@@ -22,7 +22,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Purpose: purpose.md
+  - Purpose: 
+      - Context: purpose/index.md
+      - Scope and Objective: purpose/scope-objective.md
+      - Approach: purpose/approach.md
   - Principles: 
       - Introduction: principles/index.md
       - People-Centred Care: principles/01-principle.md
