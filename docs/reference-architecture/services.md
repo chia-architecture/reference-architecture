@@ -49,7 +49,58 @@ Which foundational services are required (e.g. identity, consent).
 Relevant legal, organizational, or technical constraints.
 
 ## Data exchange services
+**Capabilities**  
+What the service enables (functional behavior).
+
+**Consumers**  
+Who uses the service (systems, organizations, or people).
+
+**Provider**  
+Which building block or system provides the service.
+
+**Inputs / Outputs**  
+What data goes in and what comes out.
+
+**Dependencies**  
+Which foundational services are required (e.g. identity, consent).
+
+**Constraints**  
+Relevant legal, organizational, or technical constraints.
 
 ## Data storage services
+**Capabilities**  
+What the service enables (functional behavior).
+
+**Consumers**  
+Who uses the service (systems, organizations, or people).
+
+**Provider**  
+Which building block or system provides the service.
+
+**Inputs / Outputs**  
+What data goes in and what comes out.
+
+**Dependencies**  
+Which foundational services are required (e.g. identity, consent).
+
+**Constraints**  
+Relevant legal, organizational, or technical constraints.
 
 ## Shared digital healthcare services
+**Capabilities**  
+What the service enables (functional behavior).
+
+**Consumers**  
+Who uses the service (systems, organizations, or people).
+
+**Provider**  
+Which building block or system provides the service.
+
+**Inputs / Outputs**  
+What data goes in and what comes out.
+
+**Dependencies**  
+Which foundational services are required (e.g. identity, consent).
+
+**Constraints**  
+Relevant legal, organizational, or technical constraints.
