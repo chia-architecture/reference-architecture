@@ -32,3 +32,11 @@
   border-radius: 8px;
   overflow: hidden;
 }
+
+.md-footer-meta__inner .md-copyright::after {
+  content: "CHIA — Open collaborative architecture";
+}
+
+.md-footer-meta__inner .md-copyright a {
+  display: none;
+}
