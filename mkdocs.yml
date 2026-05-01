@@ -38,7 +38,7 @@ nav:
   - Reference Architecture:
       - Introduction: reference-architecture/index.md
       - Terminology: reference-architecture/terminology.md
-      - Architecture view: reference-architecture/services.md
+      - Services: reference-architecture/services.md
       - Building blocks: reference-architecture/building-blocks.md
       - Architecture Decision Records: reference-architecture/architecture-decision-records.md
       - Related initiatives: reference-architecture/related-initiatives.md
