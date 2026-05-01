@@ -28,11 +28,3 @@ Trust agreement frameworks are not specified within the reference architecture i
 
 Similarly, foundational digital public services are not defined in detail within CHIA. Their availability and maturity vary across countries and are considered an important constraint for the realization of interoperable solutions.
 
-## Building Blocks
-
-Services are delivered through a set of reusable digital building blocks.
-
-These building blocks represent modular capabilities that can be implemented independently while working together as an integrated whole. They enable flexibility in implementation while ensuring interoperability across countries and systems.
-
-![Building blocks overview](../assets/views/building-blocks.svg)
-
