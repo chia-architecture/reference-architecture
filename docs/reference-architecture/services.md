@@ -1,6 +1,6 @@
-# Architecture View
+# Services
 
-This section describes the high-level structure of CHIA and how different layers of services and building blocks interact to enable cross-border healthcare interoperability.
+This section describes the high-level structure of CHIA and how different layers of services and supprting building blocks interact to enable cross-border healthcare interoperability.
 
 ![Services overview](../assets/views/services-overview.svg)
 
