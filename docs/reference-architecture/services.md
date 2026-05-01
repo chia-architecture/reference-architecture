@@ -4,9 +4,6 @@ This section describes the high-level structure of CHIA and how different layers
 
 ![Services overview](../assets/views/services-overview.svg)
 
-
-## Services
-
 CHIA distinguishes between different categories of services that together enable interoperable healthcare across borders. These services are defined as follows:
 
 - **Healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations  
