@@ -6,24 +6,12 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ![Building blocks overview](../assets/views/building-blocks.svg)
 
-## Trust agreement frameworks
-
-## End users
-
 ## Use-cases
 
 ## Data consumers
 
-## Data integrators
+## Data integrators and conformers
 
-## Data conformers
-
-## Data distributers
-
-## Data sources
-
-## Information models
-
-## Shared public services
+## Data sources and distributers
 
 ## Shared healthcare services
