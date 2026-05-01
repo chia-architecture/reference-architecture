@@ -2,6 +2,7 @@
 
 | Term | Meaning |
 |----------|----------|
+| Interoperability  | The ability of two or more systems or components to exchange information and to use the information that has been exchanged.  |
 | Architecture  | Value E  |
 | Architecture principle  | A architecture principles are specific guidelines that govern the development, maintenance, and use of the architecture. They are actionable directives for IT and architecture work. source: TOGAF |
 | Service  | A service is the externally visible behavior of the providing system, from the perspective of entity (person, organisation, system) that use that service. The value offered to the user of the service provides the motivation for the existence of the service. For the users of the service, only this exposed behavior and value are relevant. source: ArchiMate 3.2 Specification |
