@@ -8,7 +8,8 @@ CHIA distinguishes between different categories of services that together enable
 
 - **Healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations  
 - **Healthcare domain services**: Core healthcare-specific capabilities, such as clinical workflows, patient management, and care coordination  
-- **Data exchange services**: Mechanisms that enable the secure and standardized exchange of data between systems  
+- **Data exchange services**: Mechanisms that enable the secure and standardized exchange of data between systems
+- **Data storage service**: Inherently distributed sources of healthcare data and can be used a source for delivery
 - **Shared digital healthcare services**: Reusable services that support multiple healthcare applications (e.g. patient identity, consent, registries)  
 - **Foundational digital public services**: Cross-sector services such as digital identity, financial transaction, energy management, transportation, and other infrastructure used across domains  
 - **Trust agreement frameworks**: Legal, organizational, and governance agreements that enable trusted cross-border collaboration  
@@ -28,3 +29,10 @@ Trust agreement frameworks are not specified within the reference architecture i
 
 Similarly, foundational digital public services are not defined in detail within CHIA. Their availability and maturity vary across countries and are considered an important constraint for the realization of interoperable solutions.
 
+## Healthcare domain services
+
+## Data exchange services
+
+## Data storage services
+
+## Shared digital healthcare services
