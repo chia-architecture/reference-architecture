@@ -1,1 +1,183 @@
- 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0487302"
+       id="rect4"
+       width="43.969524"
+       height="8.379468"
+       x="91.334953"
+       y="68.481781"
+       rx="2" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0803274"
+       id="rect4-86"
+       width="119.47645"
+       height="8.379468"
+       x="15.828029"
+       y="77.390419"
+       rx="2" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.061625"
+       id="rect4-8"
+       width="70.318359"
+       height="8.379468"
+       x="-85.76989"
+       y="135.83363"
+       rx="2.2901375"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0575892"
+       id="rect4-8-0"
+       width="61.409718"
+       height="8.379468"
+       x="-76.861244"
+       y="6.9193912"
+       rx="1.9999998"
+       transform="rotate(-90)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0803274"
+       id="rect4-9"
+       width="119.47645"
+       height="8.379468"
+       x="15.828029"
+       y="24.360161"
+       rx="2" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0803274"
+       id="rect4-9-7"
+       width="119.47645"
+       height="8.379468"
+       x="15.828029"
+       y="15.451526"
+       rx="2" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.129462"
+       id="rect4-9-4"
+       width="74.977753"
+       height="34.68383"
+       x="15.828029"
+       y="33.268787"
+       rx="2" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.099141"
+       id="rect4-9-4-3"
+       width="43.969528"
+       height="34.68383"
+       x="91.334953"
+       y="33.268787"
+       rx="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="75.505791"
+       y="20.834209"
+       id="text5"><tspan
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="75.505791"
+         y="20.834209">Healthcare delivery service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="75.505791"
+       y="29.244589"
+       id="text5-0"><tspan
+         id="tspan5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="75.505791"
+         y="29.244589">Healthcare information management service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="50.531647"
+       y="-139.15288"
+       id="text5-2"
+       transform="rotate(90)"><tspan
+         id="tspan5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="50.531647"
+         y="-139.15288">Healthcare delivery service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="44.564041"
+       y="-10.238648"
+       id="text5-2-7"
+       transform="rotate(90)"><tspan
+         id="tspan5-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="44.564041"
+         y="-10.238648">Infomration service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="75.505791"
+       y="82.773102"
+       id="text5-5"><tspan
+         id="tspan5-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="75.505791"
+         y="82.773102">Trusted network services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="113.25925"
+       y="73.542007"
+       id="text5-5-1"><tspan
+         id="tspan5-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="113.25925"
+         y="73.542007">Digital Public Services</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0636339"
+       id="rect4-5"
+       width="74.977768"
+       height="8.379468"
+       x="15.828029"
+       y="68.481773"
+       rx="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="113.25925"
+       y="51.481194"
+       id="text5-5-1-4"><tspan
+         id="tspan5-0-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="113.25925"
+         y="51.481194">Digital Health Services</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="53.256443"
+       y="51.481194"
+       id="text5-5-1-4-8"><tspan
+         id="tspan5-0-3-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="53.256443"
+         y="51.481194">Data integration service</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="53.23785"
+       y="73.542"
+       id="text5-5-1-4-8-3"><tspan
+         id="tspan5-0-3-6-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+         x="53.23785"
+         y="73.542">Data storage service</tspan></text>
+  </g>
+</svg>
