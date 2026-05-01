@@ -6,8 +6,6 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ![Building blocks overview](../assets/views/building-blocks.svg)
 
-## Use-cases
-
 ## Data consumers
 
 ## Data integrators and conformers
