@@ -33,10 +33,12 @@
   overflow: hidden;
 }
 
-.md-footer-meta__inner .md-copyright::after {
-  content: "CHIA — Open collaborative architecture";
+/* Changing Made with MkDocs in footer */
+.md-footer-meta__inner .md-copyright {
+  font-size: 0; /* hide original text */
 }
 
-.md-footer-meta__inner .md-copyright a {
-  display: none;
+.md-footer-meta__inner .md-copyright::after {
+  content: "Open collaborative architecture";
+  font-size: 0.7rem;
 }
