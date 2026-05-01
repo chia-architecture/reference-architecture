@@ -5,16 +5,13 @@ The Caribbean Healthcare Interoperability Architecture defines a reference archi
 The scope includes:
 
 - Exchange of clinical information between healthcare providers across Caribbean countries and overseas partners (e.g., US, EU)
-- Support for continuity of care across borders  
-- Interoperability between heterogeneous health information systems  
-- Alignment with international standards
 
 The scope excludes:
 
 - Secondary use of data (e.g., research, population health analytics) in the initial phase  
 - Development of new healthcare terminology and semantics
 - Realising healthcare delivery
-- Development of trust agreeement frameworks
+- Development of trust agreement frameworks
 - Development of foundational digital public health services
 - Replacement of national systems or vendor-specific implementations  
 - Detailed country-level implementation guidance  
