@@ -1,4 +1,4 @@
-# People-Centred Care
+# People-centred care
 
 ## Explanation 
 
