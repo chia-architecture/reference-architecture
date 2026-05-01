@@ -45,13 +45,13 @@ nav:
       - Building blocks: reference-architecture/building-blocks.md
       - Architecture Decision Records: reference-architecture/architecture-decision-records.md
       - Related initiatives: reference-architecture/related-initiatives.md
-  - Governance: governance.md
   - Use Cases:
       - Introduction: use-cases/index.md
       - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
       - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
   - Contribute: contribute.md
+  - Governance: governance.md
   - About: about.md
 
 markdown_extensions:
