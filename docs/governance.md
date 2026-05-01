@@ -1,12 +1,10 @@
 # Governance
 
-## Current state
-
 CHIA is currently in an early stage and is initiated and maintained by an individual contributor.
 
 ## Contribution model
 
-Contributions are open and can be made through:
+[Contributions](contribute.md) are open and can be made through:
 
 - suggestions
 - direct edits
