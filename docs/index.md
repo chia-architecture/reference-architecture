@@ -1,6 +1,6 @@
 # Caribbean cross-border healthcare
 
-Healthcare in the Caribbean increasingly extends beyond national borders. Patients travel for treatment, expertise is distributed unevenly, and collaboration between healthcare providers is essential to deliver high-quality care. At the same time, digital health systems remain fragmented, limiting the ability to securely and effectively share information across countries. Caribbean Healthcare Interoperability Architecture (CHIA) provides a **shared and open foundation** to enable safe, scalable, and interoperable cross-border healthcare.
+Healthcare in the Caribbean increasingly extends beyond national borders. Patients travel for treatment, expertise is distributed unevenly, and collaboration between healthcare providers is essential to deliver high-quality care. At the same time, digital health systems remain fragmented, limiting the ability to securely and effectively share information across countries. Caribbean Healthcare Interoperability Architecture provides a **shared and open foundation** to enable safe, scalable, and interoperable cross-border healthcare.
  
 
 # Guiding principles
