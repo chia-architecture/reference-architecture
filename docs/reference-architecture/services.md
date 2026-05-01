@@ -30,6 +30,23 @@ Trust agreement frameworks are not specified within the reference architecture i
 Similarly, foundational digital public services are not defined in detail within CHIA. Their availability and maturity vary across countries and are considered an important constraint for the realization of interoperable solutions.
 
 ## Healthcare domain services
+**Capabilities**  
+What the service enables (functional behavior).
+
+**Consumers**  
+Who uses the service (systems, organizations, or people).
+
+**Provider**  
+Which building block or system provides the service.
+
+**Inputs / Outputs**  
+What data goes in and what comes out.
+
+**Dependencies**  
+Which foundational services are required (e.g. identity, consent).
+
+**Constraints**  
+Relevant legal, organizational, or technical constraints.
 
 ## Data exchange services
 
