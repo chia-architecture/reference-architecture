@@ -14,4 +14,8 @@ You can suggest a change by opening a GitHub issue:
 
 You can also propose a direct edit by clicking the **Edit this page** button on any page.
 
+## Start a discussion
+
+You can also to freely [discuss topics](https://github.com/chia-architecture/reference-architecture/discussions/new/choose) related to this page.
+
 Thank you in advance for contributing.
