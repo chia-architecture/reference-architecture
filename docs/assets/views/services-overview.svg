@@ -7,15 +7,75 @@
    viewBox="0 0 139 74"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="services-overview.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0910546"
+     inkscape:cx="252.26505"
+     inkscape:cy="160.92358"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs1" />
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
   <g
+     inkscape:label="Service structure"
+     inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:#808080;fill-opacity:1;stroke-width:0.0626694"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0626694"
        id="rect4"
        width="43.970001"
        height="13.858989"
@@ -23,7 +83,7 @@
        y="59.582157"
        rx="2" />
     <rect
-       style="fill:#808080;fill-opacity:1;stroke-width:0.0627821"
+       style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.0627821"
        id="rect4-8"
        width="72.983841"
        height="8.379468"
@@ -82,7 +142,9 @@
        rx="2" />
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer2"
+     inkscape:label="Services overview"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -90,10 +152,12 @@
        x="107.33263"
        y="39.641449"
        id="text5-5-1-4"><tspan
+         sodipodi:role="line"
          id="tspan5-0-3-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="107.33263"
          y="39.641449">Shared digital </tspan><tspan
+         sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="107.33263"
          y="43.633026"
@@ -104,6 +168,7 @@
        x="47.311218"
        y="39.641449"
        id="text5-5-1-4-8"><tspan
+         sodipodi:role="line"
          id="tspan5-0-3-6-4"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="47.311218"
@@ -114,6 +179,7 @@
        x="47.311226"
        y="67.357796"
        id="text5-5-1-4-8-3"><tspan
+         sodipodi:role="line"
          id="tspan5-0-3-6-4-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="47.311226"
@@ -124,6 +190,7 @@
        x="69.579163"
        y="6.1137514"
        id="text5"><tspan
+         sodipodi:role="line"
          id="tspan5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="69.579163"
@@ -134,6 +201,7 @@
        x="69.579163"
        y="14.524129"
        id="text5-0"><tspan
+         sodipodi:role="line"
          id="tspan5-1"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="69.579163"
@@ -145,6 +213,7 @@
        y="-133.2263"
        id="text5-2"
        transform="rotate(90)"><tspan
+         sodipodi:role="line"
          id="tspan5-6"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="35.811184"
@@ -156,6 +225,7 @@
        y="-3.9732699"
        id="text5-2-7"
        transform="rotate(90)"><tspan
+         sodipodi:role="line"
          id="tspan5-6-5"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="36.974949"
@@ -166,17 +236,21 @@
        x="107.37761"
        y="65.817024"
        id="text5-5-1"><tspan
+         sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="107.37761"
          y="65.817024"
          id="tspan8">Foundational digital</tspan><tspan
+         sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
          x="107.37761"
          y="69.808601"
          id="tspan9">public services</tspan></text>
   </g>
   <g
+     inkscape:groupmode="layer"
      id="layer3"
+     inkscape:label="Building blocks"
      style="display:none">
     <rect
        style="display:inline;fill:#808080;fill-opacity:1;stroke-width:0.0568745"
@@ -200,6 +274,7 @@
        x="107.36477"
        y="57.480736"
        id="text6"><tspan
+         sodipodi:role="line"
          id="tspan6"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="107.36477"
@@ -218,6 +293,7 @@
        x="106.90816"
        y="21.902885"
        id="text6-8"><tspan
+         sodipodi:role="line"
          id="tspan6-0"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.90816"
@@ -236,6 +312,7 @@
        x="107.02271"
        y="26.338846"
        id="text6-8-0"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="107.02271"
@@ -254,6 +331,7 @@
        x="106.94675"
        y="30.749485"
        id="text6-8-0-8"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.94675"
@@ -272,6 +350,7 @@
        x="106.94675"
        y="35.181351"
        id="text6-8-0-8-9"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9-8"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.94675"
@@ -290,6 +369,7 @@
        x="106.94675"
        y="39.613216"
        id="text6-8-0-8-9-8"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9-8-3"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.94675"
@@ -308,6 +388,7 @@
        x="106.94675"
        y="44.045082"
        id="text6-8-0-8-9-8-7"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9-8-3-3"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.94675"
@@ -326,6 +407,7 @@
        x="106.94675"
        y="48.476948"
        id="text6-8-0-8-9-8-7-0"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9-8-3-3-9"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="106.94675"
@@ -344,6 +426,7 @@
        x="107.22556"
        y="52.890144"
        id="text6-8-0-8-9-8-7-0-8"><tspan
+         sodipodi:role="line"
          id="tspan6-0-1-9-8-3-3-9-4"
          style="font-size:2.46944px;fill:#ffffff;stroke-width:0.264583"
          x="107.22556"
@@ -362,6 +445,7 @@
        x="18.140921"
        y="58.954269"
        id="text6-1"><tspan
+         sodipodi:role="line"
          id="tspan6-8"
          style="font-size:2.82222px;fill:#ffffff;stroke-width:0.264583"
          x="18.140921"
