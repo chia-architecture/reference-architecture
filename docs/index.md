@@ -10,7 +10,7 @@ Before designing solutions, we establish a shared set of guiding principles.  Th
 
 # Digital building blocks
 
-Based on the vision and guiding principles, CHIA defines a set of digital building blocks that together form the foundation of the architecture. These building blocks represent reusable capabilities that can be implemented across different systems and countries. They are designed to work together as an integrated whole, enabling interoperability while allowing flexibility in local implementation. In this way, the architecture supports both standardisation and diversity within the region.
+Based on the vision and guiding principles, this initiative defines a set of digital building blocks that together form the foundation of the architecture. These building blocks represent reusable capabilities that can be implemented across different systems and countries. They are designed to work together as an integrated whole, enabling interoperability while allowing flexibility in local implementation. In this way, the architecture supports both standardisation and diversity within the region.
  
 
 # Open and transparant
