@@ -2,5 +2,5 @@
 
 | Principle | Implication | Consequence on architecture |
 |----------|----------|----------|
-| Value A  | Value B  | Value C  |
+| Decouplable | Functional decoupling  | Architecure is build up out of functional services  |
 | Value D  | Value E  | Value F  |
