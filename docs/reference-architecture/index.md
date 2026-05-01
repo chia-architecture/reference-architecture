@@ -1,6 +1,6 @@
 # Reference architecture
 
-A reference architecture provides a structured and shared framework that defines how systems, services, and components should be designed and interact within a given domain. It does not prescribe a single implementation, but instead offers guidance, principles, and reusable building blocks to ensure consistency, interoperability, and scalability across different solutions and contexts.
+A reference architecture provides a structured and shared framework that defines how systems, services, and components should be designed and interact within a given domain. It does not prescribe a single implementation, but instead offers reusable building blocks to ensure consistency, interoperability, and scalability across different solutions and contexts.
 
 Within this work, the reference architecture serves as a common foundation for enabling cross-border healthcare interoperability in the Caribbean. It helps stakeholders align on concepts, standards, and design approaches while allowing flexibility for local implementation.
 
