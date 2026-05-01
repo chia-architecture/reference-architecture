@@ -10,7 +10,7 @@ We provide care to citizens and support healthcare professionals. A strong focus
 
 ## Implications 
 
-- We listen to and take into account what the citizen and any informal caregiver say.
+- We listen to and take into account what all stakeholders say.
 - We ensure communication is understandable for the citizen.
 - Care processes are designed so that professional and citizen decide together (“shared decision-making”).
 - We communicate and treat digitally where possible, while considering citizens with limited digital skills.
