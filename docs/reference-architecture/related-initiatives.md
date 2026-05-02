@@ -1,7 +1,7 @@
 # Related initiatives
 When building the architecture, all documentation of the referenced initiatives are considered.
 
-# Trust Frameworks
+## Trust Frameworks
 
 **Trusted Exchange Framework and Common Agreement**
 
@@ -14,15 +14,6 @@ The European Health Data Space (EHDS) is a European Union initiative that establ
 **Landelijk vertrouwensstelsel**
 
 In the Netherlands, a national trust framework (landelijk vertrouwensstelsel) is being developed to enable secure and reliable exchange of health data across organisations. It defines the agreements, roles, and conditions under which parties can trust each other, including identity verification, authentication, authorization, and compliance with legal and security requirements. Similar to TEFCA, it focuses on establishing explicit trust relationships, but is more nationally scoped and closely aligned with existing healthcare infrastructure and governance models.
-
-## Projects
-**Paving the Pan American Highway for Digital Health**
-
-Initiated by the Inter-American Development Bank (IND) and the Pan American Health Organization (PAHO), the general objective is to provide high-quality, safe, and efficient digital healthcare services in the region and to strengthen regional resilience to epidemics and public health emergencies through the creation of the Pan American Route for Digital Health. The specific objectives are (i) to establish a harmonized legal framework and acquire the necessary regional digital infrastructure for cross-border data exchange; (ii) to improve national preparedness for implementing cross-border digital health services; and (iii) to empower individuals to consult and share their medical data, giving them greater control over their health.
-
-**Carribbean Connect**
-
-Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
 
 ## Regional Reference Architectures
 **Sigra's Regional Reference Architecture**
@@ -42,3 +33,12 @@ Digital Public Infrastructure for Health is an WHO initiative and refers to foun
 **Digital health platform handbook: building a digital information infrastructure (infostructure) for health**
 
 World Health Organization, & International Telecommunication Union. (2020). Digital health platform handbook: building a digital information infrastructure (infostructure) for health. World Health Organization.
+
+## Projects
+**Paving the Pan American Highway for Digital Health**
+
+Initiated by the Inter-American Development Bank (IND) and the Pan American Health Organization (PAHO), the general objective is to provide high-quality, safe, and efficient digital healthcare services in the region and to strengthen regional resilience to epidemics and public health emergencies through the creation of the Pan American Route for Digital Health. The specific objectives are (i) to establish a harmonized legal framework and acquire the necessary regional digital infrastructure for cross-border data exchange; (ii) to improve national preparedness for implementing cross-border digital health services; and (iii) to empower individuals to consult and share their medical data, giving them greater control over their health.
+
+**Carribbean Connect**
+
+Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
