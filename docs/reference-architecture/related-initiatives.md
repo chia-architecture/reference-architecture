@@ -15,6 +15,11 @@ The European Health Data Space (EHDS) is a European Union initiative that establ
 
 In the Netherlands, a national trust framework (landelijk vertrouwensstelsel) is being developed to enable secure and reliable exchange of health data across organisations. It defines the agreements, roles, and conditions under which parties can trust each other, including identity verification, authentication, authorization, and compliance with legal and security requirements. Similar to TEFCA, it focuses on establishing explicit trust relationships, but is more nationally scoped and closely aligned with existing healthcare infrastructure and governance models.
 
+## Technical frameworks
+**Integrating the Healthcare Enterprise**
+
+Integrating the Healthcare Enterprise (IHE) is an international initiative that develops practical guidance for implementing interoperability in healthcare systems. Rather than creating new standards, IHE defines integration profiles that specify how existing standards should be used together to support real-world use cases. These profiles describe workflows, roles, and technical interactions between systems, helping vendors and organisations implement interoperable solutions in a consistent and testable way.
+
 ## Regional Reference Architectures
 **Sigra's Regional Reference Architecture**
 
