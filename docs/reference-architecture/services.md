@@ -12,7 +12,7 @@ CHIA distinguishes between different categories of services that together enable
 - **Data storage service**: Inherently distributed sources of healthcare data and can be used a source for delivery
 - **Shared digital healthcare services**: Reusable services that support multiple healthcare applications (e.g. patient identity, consent, registries)  
 - **Foundational digital public services**: Cross-sector services such as digital identity, financial transaction, energy management, transportation, and other infrastructure used across domains  
-- **Trust agreement frameworks**: Legal, organizational, and governance agreements that enable trusted cross-border collaboration  
+- **Trust frameworks**: Legal, organizational, and governance agreements that enable trusted cross-border collaboration  
 - **Terminology & semantics services**: Standards and services that ensure consistent meaning and interpretation of health data
 
 These service categories of services are consistent with the WHO's Digital Public Services, the WHO's Digital Public Services for Health, and Sigra's Reference Architecture.
