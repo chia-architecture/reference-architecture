@@ -15,7 +15,23 @@ The European Health Data Space (EHDS) is a European Union initiative that establ
 
 In the Netherlands, a national trust framework (landelijk vertrouwensstelsel) is being developed to enable secure and reliable exchange of health data across organisations. It defines the agreements, roles, and conditions under which parties can trust each other, including identity verification, authentication, authorization, and compliance with legal and security requirements. Similar to TEFCA, it focuses on establishing explicit trust relationships, but is more nationally scoped and closely aligned with existing healthcare infrastructure and governance models.
 
-## Technical frameworks
+## Terminology and semantics
+**SNOMED CT**
+
+SNOMED International maintains the most comprehensive clinical terminology, covering diseases, procedures, findings, and more. It enables detailed, computable clinical data and is widely used in national health systems. Strong but complex to implement and maintain.
+
+**ICD (ICD-10 / ICD-11)**
+
+World Health Organization maintains a global standard for disease classification, mainly used for reporting, statistics, and billing. Less granular than SNOMED CT, but universally adopted and essential for comparability across countries.
+
+**LOINC**
+
+Regenstrief Institute maintains a standard for laboratory tests and clinical measurements. Critical for lab interoperability and widely adopted globally, often used alongside SNOMED CT.
+
+**FHIR Terminology Services**
+
+HL7 International maintains the terminology services which determines how terminology systems are used in practice (e.g. value sets, code systems, mappings). Provides APIs for validation, lookup, and translation. Increasingly the operational layer for semantics.
+
 **Integrating the Healthcare Enterprise**
 
 Integrating the Healthcare Enterprise (IHE) is an international initiative that develops practical guidance for implementing interoperability in healthcare systems. Rather than creating new standards, IHE defines integration profiles that specify how existing standards should be used together to support real-world use cases. These profiles describe workflows, roles, and technical interactions between systems, helping vendors and organisations implement interoperable solutions in a consistent and testable way.
