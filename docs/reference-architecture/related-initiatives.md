@@ -47,3 +47,7 @@ Initiated by the Inter-American Development Bank (IND) and the Pan American Heal
 **Carribbean Connect**
 
 Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
+
+**Caribbean Public Health Agency**
+
+The Caribbean Public Health Agency (CARPHA) is the regional public health body for Caribbean Community Member States, established to strengthen and coordinate public health across the region. It brings together multiple former regional institutes into a single organisation, enabling a unified response to public health challenges such as infectious disease outbreaks, non-communicable diseases, environmental health risks, and emergencies. CARPHA supports member states through surveillance, laboratory services, research, and capacity building, including regional laboratory networks and medicines quality control. Through these activities, CARPHA plays a key role in enabling regional coordination, data sharing, and evidence-based decision-making, which are essential for cross-border health collaboration.
