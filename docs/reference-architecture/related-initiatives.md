@@ -36,6 +36,14 @@ HL7 International maintains the terminology services which determines how termin
 
 Integrating the Healthcare Enterprise (IHE) is an international initiative that develops practical guidance for implementing interoperability in healthcare systems. Rather than creating new standards, IHE defines integration profiles that specify how existing standards should be used together to support real-world use cases. These profiles describe workflows, roles, and technical interactions between systems, helping vendors and organisations implement interoperable solutions in a consistent and testable way.
 
+**eHealth Network / EHDS**
+
+European Commission maintains the eHealth Network which defines common datasets (e.g. patient summary) and required terminologies for cross-border care. Focuses on harmonisation across countries, not creating new terminologies.
+
+**OpenEHR archetypes**
+
+The OpenEHR Foundation maintains the OpenEHR archetypes which defines clinical models (archetypes) with embedded semantics. Strong for structured clinical data, but less globally dominant than SNOMED/LOINC.
+
 ## Regional Reference Architectures
 **Sigra's Regional Reference Architecture**
 
