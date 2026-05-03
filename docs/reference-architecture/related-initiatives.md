@@ -48,6 +48,10 @@ Initiated by the Inter-American Development Bank (IND) and the Pan American Heal
 
 Doane, D., Kanjee, A., & Nelson, J. (2024). Report Caribbean Connect: Building the Pan-American Highway for Digital Health. https://doi.org/10.18235/0013204
 
-**Health services of Caribbean Public Health Agency**
+**Cross-border health services within the Caribbean**
 
 The Caribbean Public Health Agency (CARPHA) is the regional public health body for Caribbean Community Member States, established to strengthen and coordinate public health across the region. It brings together multiple former regional institutes into a single organisation, enabling a unified response to public health challenges such as infectious disease outbreaks, non-communicable diseases, environmental health risks, and emergencies. CARPHA supports member states through surveillance, laboratory services, research, and capacity building, including regional laboratory networks and medicines quality control. Through these activities, CARPHA plays a key role in enabling regional coordination, data sharing, and evidence-based decision-making, which are essential for cross-border health collaboration.
+
+** Reports on global barriers for interoperability**
+
+The Global Digital Health Partnership (GDHP) is an international collaboration of governments and health authorities that works to advance digital health through shared learning and alignment on best practices. In the area of interoperability, GDHP has produced key reports such as Advancing Interoperability Together Globally and Connected Health: Empowering Health through Interoperability. These reports outline common challenges, guiding principles, and practical approaches for enabling data exchange across health systems, with a strong emphasis on standards adoption, governance, and real-world implementation. Through this work, GDHP supports countries in aligning their digital health strategies while accommodating different levels of maturity and promoting a globally coordinated approach to interoperability.
