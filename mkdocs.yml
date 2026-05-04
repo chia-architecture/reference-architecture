@@ -51,7 +51,7 @@ nav:
       - Advanced Laboratory Services: use-cases/laboratoryservices-microbiology.md
       - Emergency Response: use-cases/publichealth-emergencyresponse.md
       - Medicines Regulatory Approval: use-cases/medicines-regulatory-approval.md
-      - Medicines Quality Testing: use-cases/medicines-quality-testing
+      - Medicines Quality Testing: use-cases/medicines-quality-testing.md
       - Pharmacovigilance: use-cases/pharmacovigilance.md
   - Purpose: 
       - Context: purpose/index.md
