@@ -39,6 +39,6 @@
 }
 
 .md-footer-meta__inner .md-copyright::after {
-  content: "Open collaborative architecture";
+  content: "Open architecture licensed under CC BY 4.0";
   font-size: 0.7rem;
 }
