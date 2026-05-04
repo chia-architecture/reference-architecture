@@ -9,9 +9,3 @@ This project is currently in an early stage and is initiated and maintained by a
 - suggestions
 - direct edits
 - discussions
-
-## Decision-making
-
-At this stage, decisions are made by the maintainer, based on input from contributors.
-
-As the initiative grows, governance is expected to evolve towards a more structured and representative model, involving regional stakeholders and organisations.
