@@ -47,8 +47,9 @@ nav:
       - Introduction: use-cases/index.md
       - Cerival cancer screening: use-cases/screening-cervicalcancer.md
       - Breast cancer screening: use-cases/screening-breastcancer.md
-      - Emergency care: use-cases/cross-border-emergency-care.md
       - Planned referral: use-cases/planned-referral.md
+      - Advanced Laboratory Services: use-cases/laboratoryservices-microbiology.md
+      - Emergency care: use-cases/cross-border-emergency-care.md
       - Specialist consultation: use-cases/specialist-consultation.md
   - Purpose: 
       - Context: purpose/index.md
