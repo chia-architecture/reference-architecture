@@ -16,4 +16,4 @@ By combining these building blocks, the reference architecture provides a practi
  
 
 # Open and transparant
-Everyone can participate by [suggesting changes](contribute.md). This means clinitians, caregivers, patients, directors, architects and policymakers can all contribute. Interoperability requires consensus among people from different nations, disciplines, and cultures. All modifications are [publically available](https://github.com/chia-architecture/reference-architecture) building trust and transparancy.
+This architecture impacts everyone involved in healthcare, and therefore everyone is encouraged to contribute. Everyone can participate by [suggesting changes](contribute.md). This means clinicians, caregivers, patients, directors, architects, and policymakers can all contribute. Interoperability requires consensus among people from different nations, disciplines, and cultures. All modifications are [publicly available](https://github.com/chia-architecture/reference-architecture), building trust and transparency.
