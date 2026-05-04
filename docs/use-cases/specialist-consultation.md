@@ -1,6 +1,5 @@
 # Specialist consultation
 
-## Scenario
 A healthcare professional in Country A consults a specialist in Country B (remotely or as part of coordinated care) for expertise not available locally.
 
 ## Problem today
