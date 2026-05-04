@@ -24,7 +24,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Principles: 
+  - Architecture Principles: 
       - Introduction: principles/index.md
       - People-centred care: principles/01-principle.md
       - Value-driven: principles/02-principle.md
