@@ -8,7 +8,11 @@ To enable cross-border healthcare in practice, we define a set of [architecture 
 
 # Reference Architecture
 
-Based on the architecture principles, this initiative defines a set of digital building blocks that together form the foundation of the architecture. These building blocks represent reusable capabilities that can be implemented across different systems and countries. They are designed to work together as an integrated whole, enabling interoperability while allowing flexibility in local implementation. In this way, the architecture supports both standardisation and diversity within the region.
+Based on the architecture principles, the [reference architecture](reference-architecture/index.md) defines a set of [digital building blocks](reference-architecture/building-blocks.md) that support real cross-border healthcare [use cases](use-cases/index.md). These building blocks represent concrete capabilities—such as identifying patients, exchanging data, managing consent, and sharing results—that are required to make these use cases work in practice.
+
+Each building block can be implemented by different systems in different countries, but they follow common agreements on how data is structured and exchanged. This allows healthcare providers, laboratories, and regulators to collaborate across borders while using their own local systems.
+
+By combining these building blocks, the reference architecture provides a practical foundation for interoperable healthcare in the Caribbean. It enables countries to gradually adopt and implement solutions that are compatible with each other, reducing fragmentation while supporting local needs and existing infrastructure.
  
 
 # Open and transparant
