@@ -23,7 +23,11 @@ theme:
     - content.action.edit
 
 nav:
-  - Home: index.md
+  - Home: 
+      - Home: index.md
+      - Purpose: purpose/index.md
+      - Scope and objective: purpose/scope-objective.md
+      - Approach: purpose/approach.md
   - Architecture Principles: 
       - Introduction: principles/index.md
       - People-centred care: principles/01-principle.md
@@ -53,10 +57,6 @@ nav:
       - Medicines Regulatory Approval: use-cases/medicines-regulatory-approval.md
       - Medicines Quality Testing: use-cases/medicines-quality-testing.md
       - Pharmacovigilance: use-cases/pharmacovigilance.md
-  - Purpose: 
-      - Context: purpose/index.md
-      - Scope and objective: purpose/scope-objective.md
-      - Approach: purpose/approach.md
   - Contribute: contribute.md
   - Governance: governance.md
   - About: about.md
