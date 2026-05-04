@@ -48,7 +48,7 @@ nav:
       - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
       - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
-    - Purpose: 
+  - Purpose: 
       - Context: purpose/index.md
       - Scope and objective: purpose/scope-objective.md
       - Approach: purpose/approach.md
