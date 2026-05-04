@@ -8,7 +8,7 @@ This architecture impacts a wide range of stakeholders—including clinicians, p
 
 # Decision-making
 
-At this stage, [decisions](https://github.com/chia-architecture/reference-architecture/pulls) are made by the maintainer, based on input from contributors.
+At this stage, [decisions](https://github.com/chia-architecture/reference-architecture/pulls?q=is%3Apr+is%3Aclosed) are made by the maintainer, based on input from contributors.
 
 As the initiative grows, governance is expected to evolve towards a more structured and representative governance model, involving regional stakeholders and organisations.
 
