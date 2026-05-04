@@ -1,4 +1,4 @@
-# Use Case: Cross-Border Emergency Care
+# Emergency care
 
 A patient from Country A is treated in an emergency department in Country B.
 
