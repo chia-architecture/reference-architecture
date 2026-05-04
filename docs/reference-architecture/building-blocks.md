@@ -6,7 +6,18 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ![Building blocks overview](../assets/views/building-blocks.svg)
 
-## Data consumers
+## Shared Electronic Health Record
+
+| Attribute | Content |
+|----------|----------|
+| Purpose | 2-3 lines |
+| Service | Cross-border healthcare service |
+| Regional constraints | List |
+| Key information | List of main entities |
+| Cross-border considerations | ? |
+| Upstream dependencies | List of building blocks |
+| Downstream dependencies | List of building blocks |
+| Interoperability requirements | Terminology, sematics, API's |
 
 ## Integrators
 
