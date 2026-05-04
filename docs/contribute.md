@@ -16,6 +16,8 @@ You can also propose a direct edit by clicking the **Edit this page** button on 
 
 ## Start a discussion
 
-You can also freely [discuss topics](https://github.com/chia-architecture/reference-architecture/discussions/new/choose) related to this page.
+You can also freely discuss on [existing topics](https://github.com/chia-architecture/reference-architecture/discussions) or propose [new ones](https://github.com/chia-architecture/reference-architecture/discussions/new/choose).
 
 Thank you in advance for contributing.
+
+
