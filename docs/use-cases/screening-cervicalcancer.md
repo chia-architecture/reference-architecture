@@ -1,6 +1,5 @@
 # Cervical cancer screening
 
-## Scenario
 Residents of Bonaire, Saba, and Sint Eustatius (BES islands) participate in a coordinated cervical cancer screening programme. Samples are collected by general practitioners on the islands and sent to Curaçao for laboratory analysis. The results are subsequently interpreted by specialists at Amsterdam University Medical Center in the Netherlands. The clinical outcomes are then shared with the general practitioners on the BES islands, who inform and treat the patients as needed. The programme is coordinated by the National Institute for Public Health and the Environment (RIVM) in the Netherlands.
 
 This use case clearly demonstrates the potential of cross-border healthcare by leveraging laboratory capacity and clinical expertise across the Caribbean and European Netherlands, enabling high-quality care despite geographic fragmentation.
