@@ -6,7 +6,7 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ![Building blocks overview](../assets/views/building-blocks-overview.svg)
 
-## Shared Electronic Health Record
+## Shared Health Record
 
 | Attribute | Content |
 |----------|----------|
