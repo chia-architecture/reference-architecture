@@ -10,6 +10,9 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ## Data integration services
 ### Integrators
+
+| Purpose |   |
+|----------|----------|
 ### Adapters
 
 
