@@ -1,6 +1,5 @@
 # Use Case: Cross-Border Emergency Care
 
-## Scenario
 A patient from Country A is treated in an emergency department in Country B.
 
 ## Problem today
