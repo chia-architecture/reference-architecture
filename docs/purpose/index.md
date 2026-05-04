@@ -1,13 +1,5 @@
 # Context
 
-Healthcare systems in the Caribbean operate in a geographically dispersed and resource-constrained environment. Patients frequently move across borders for treatment, while healthcare expertise and facilities are unevenly distributed across the region.
+Healthcare delivery in the Caribbean is inherently distributed. Due to limited scale and specialised capacity on individual islands, care pathways frequently span multiple jurisdictions. Patients are referred abroad for diagnostics or treatment, laboratory services are centralised, and regional organisations support surveillance, regulation, and emergency response.
 
-At the same time, digital health systems are fragmented, with limited interoperability between providers and countries. This results in:
-
-- Limited continuity of care when patients receive treatment across borders  
-- Inefficient use of scarce healthcare resources and expertise  
-- Restricted access to specialised services within individual countries  
-- Duplication of effort and isolated digital health initiatives  
-- Complex governance and trust challenges for cross-border data exchange  
-
-These challenges highlight the need for a shared, regionally aligned approach to healthcare interoperability.
+In this context, health data must follow the patient, the product, or the public health event across organisational and national boundaries. However, data is often fragmented across systems, exchanged through manual processes, or not available at the point of care. This introduces delays, increases administrative burden, and creates risks for patient safety and public health decision-making. Improving data sharing is therefore not only a technical challenge, but a prerequisite for effective cross-border care and coordination.
