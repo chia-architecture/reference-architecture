@@ -25,8 +25,8 @@ theme:
 nav:
   - Home: 
       - Home: index.md
-      - Purpose: purpose/index.md
-      - Scope and objective: purpose/scope-objective.md
+      - Context: purpose/index.md
+      - Objective and scope: purpose/scope-objective.md
       - Approach: purpose/approach.md
   - Architecture Principles: 
       - Introduction: principles/index.md
