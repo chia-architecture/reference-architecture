@@ -45,6 +45,7 @@ nav:
       - Related initiatives: reference-architecture/related-initiatives.md
   - Use Cases:
       - Introduction: use-cases/index.md
+      - Cerival Cancer Screening: use-cases/screening-cervicalcancer.md
       - Cross-Border Emergency Care: use-cases/cross-border-emergency-care.md
       - Planned Referral: use-cases/planned-referral.md
       - Specialist Consultation: use-cases/specialist-consultation.md
