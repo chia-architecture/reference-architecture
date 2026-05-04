@@ -6,7 +6,7 @@ This section describes the high-level structure of CHIA and how different layers
 
 CHIA distinguishes between different categories of services that together enable interoperable healthcare across borders. These services are defined as follows:
 
-- **Local healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations  
+- **National healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations
 - **Cross-border healthcare services**: Core healthcare-specific capabilities, such as clinical workflows, patient management, and care coordination  
 - **Data exchange services**: Mechanisms that enable the secure and standardized exchange of data between systems
 - **Data storage service**: Inherently distributed sources of healthcare data and can be used a source for delivery
@@ -21,7 +21,7 @@ These service categories of services are consistent with the WHO's Digital Publi
 
 Not all service categories are defined in detail within CHIA.
 
-Healthcare delivery services are not described in detail in the architecture. Instead, the architecture is designed to support and enable effective healthcare delivery, which is reflected in the guiding principles.
+National delivery services are not described in detail in the architecture. Instead, the architecture is designed to support and enable effective healthcare delivery, which is reflected in the guiding principles.
 
 Terminology and semantics services are used as input for defining standards within the building blocks. CHIA aims to align with internationally recognized standards wherever possible.
 
