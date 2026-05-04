@@ -1,6 +1,6 @@
 # Caribbean cross-border healthcare
 
-Healthcare in the Caribbean increasingly extends beyond national borders.  Cross-border services such as [patients referrals for treatment](use-cases/planned-referral.md), [laboratory services](use-cases/laboratoryservices-microbiology.md), and [medicine monitoring](use-cases/pharmacovigilance.md) are essential to deliver high-quality care. At the same time, digital health systems remain fragmented, limiting the ability to securely and effectively share information across countries. Caribbean Healthcare Interoperability Architecture provides a **shared and open foundation** to enable safe, scalable, and compatible cross-border healthcare.
+Healthcare in the Caribbean increasingly extends beyond national borders.  Cross-border healthcare services such as [patients referrals for treatment](use-cases/planned-referral.md), [laboratory services](use-cases/laboratoryservices-microbiology.md), and [medicine monitoring](use-cases/pharmacovigilance.md) are essential to deliver high-quality care. At the same time, digital health systems remain fragmented, limiting the ability to securely and effectively share information across countries. Caribbean Healthcare Interoperability Architecture provides a **shared and open foundation** to enable safe, scalable, and compatible cross-border healthcare.
 
 # Architecture principles
 
