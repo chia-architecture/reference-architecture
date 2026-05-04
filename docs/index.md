@@ -4,8 +4,7 @@ Healthcare in the Caribbean increasingly extends beyond national borders.  Cross
 
 # Architecture principles
 
-Before designing solutions, we establish a shared set of guiding principles.  These principles ensure that all decisions are consistent, aligned, and focused on delivering value across countries and stakeholders.
- 
+To enable cross-border healthcare in practice, we define a set of [architecture principles](principles/index.md) that steer how the architecture is designed and applied. These principles translate real-world needs—such as safe data sharing, collaboration across countries, and efficient use of limited resources—into concrete design choices. 
 
 # Reference Architecture
 
