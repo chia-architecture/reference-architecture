@@ -40,3 +40,12 @@ The repository is organised into the following main sections:
 
 - **/.github**  
   Contribution templates and repository configuration.
+
+
+## License
+
+This reference architecture is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+You are free to use, adapt, and apply this work, including for commercial purposes, provided appropriate attribution is given.
+
+See the LICENSE file for full details.
