@@ -6,8 +6,8 @@ This section describes the high-level structure of CHIA and how different layers
 
 CHIA distinguishes between different categories of services that together enable interoperable healthcare across borders. These services are defined as follows:
 
-- **Healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations  
-- **Healthcare domain services**: Core healthcare-specific capabilities, such as clinical workflows, patient management, and care coordination  
+- **Local healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations  
+- **Cross-border healthcare services**: Core healthcare-specific capabilities, such as clinical workflows, patient management, and care coordination  
 - **Data exchange services**: Mechanisms that enable the secure and standardized exchange of data between systems
 - **Data storage service**: Inherently distributed sources of healthcare data and can be used a source for delivery
 - **Shared digital healthcare services**: Reusable services that support multiple healthcare applications (e.g. patient identity, consent, registries)  
@@ -29,7 +29,7 @@ Trust agreement frameworks are not specified within the reference architecture i
 
 Similarly, foundational digital public services are not defined in detail within CHIA. Their availability and maturity vary across countries and are considered an important constraint for the realization of interoperable solutions.
 
-## Healthcare domain services
+## Cross-border healthcare services
 **Capabilities**  
 What the service enables (functional behavior).
 
