@@ -1,36 +1,19 @@
-## Scope
+# Objective
 
-The Caribbean Healthcare Interoperability Architecture defines a reference architecture to enable **cross-border healthcare data exchange for primary use**.
+The objective of the Caribbean Healthcare Interoperability Architecture (CHIA) is to provide a shared and practical foundation for enabling cross-border healthcare interoperability in the Caribbean. It defines a set of reusable digital building blocks, common data structures, and interaction patterns that support the secure and efficient exchange of health information between organisations and countries.
 
-The scope includes:
+CHIA aims to reduce fragmentation, improve continuity of care, and enable better coordination across clinical care, public health, and regulatory processes. It supports stakeholders in designing and implementing solutions that are compatible with each other, while allowing flexibility in how these solutions are realised within local contexts.
 
-- Exchange of clinical information between healthcare providers across Caribbean countries and overseas partners (e.g., US, EU)
-
-The scope excludes:
-
-- Secondary use of data (e.g., research, population health analytics) in the initial phase  
-- Development of new healthcare terminology and semantics
-- Realising healthcare delivery
-- Development of trust agreement frameworks
-- Development of foundational digital public health services
-- Replacement of national systems or vendor-specific implementations  
-- Detailed country-level implementation guidance  
-
-CHIA is designed as a **federated reference architecture**, supporting collaboration while respecting national autonomy and data sovereignty.
+Rather than prescribing a single system or enforcing compliance, CHIA provides guidance that can be adopted incrementally. It enables countries and organisations to align over time, building on existing systems and investments, and fostering regional collaboration.
 
 ---
 
-## Objectives
+# Scope
 
+CHIA focuses on the digital interoperability required to support cross-border healthcare processes in the Caribbean. This includes the definition of architecture principles, service layers, and digital building blocks that enable the exchange of data between independent systems.
 
-CHIA aims to:
+The scope covers key cross-border scenarios such as patient referrals, laboratory services, medicines regulation and monitoring, and public health response. It addresses how information related to patients, products, and events can be identified, shared, and interpreted across organisational and national boundaries.
 
-- Enable **safe and effective cross-border care** through reliable data exchange  
-- Improve **continuity, quality, and efficiency of care** across the region  
-- Enable more effective **sharing and utilisation of scarce healthcare resources**  
-- Broaden the **availability and accessibility of healthcare services** between Caribbean countries but also overseas partners
-- Support the development of **regional expertise and centres of excellence**  
-- Provide a **shared architectural foundation** for interoperability initiatives  
-- Reduce fragmentation and duplication in digital health efforts  
-- Support **scalable and sustainable implementation** across diverse healthcare systems  
-- Facilitate alignment with regional initiatives (e.g., Pan American Health Organization)
+CHIA does not define or replace national systems, nor does it prescribe specific technologies or implementations. Foundational digital public infrastructure, legal frameworks, and governance arrangements are considered as dependencies and constraints, but are not defined in detail within this architecture.
+
+The architecture is intended as a reference that can be used by policymakers, architects, and implementers to guide decision-making and support the gradual development of interoperable solutions across the region.
