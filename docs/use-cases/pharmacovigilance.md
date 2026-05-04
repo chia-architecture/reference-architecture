@@ -1,4 +1,4 @@
-# Pharmacovigilance and safety monitoring (VigiCarib)
+# Pharmacovigilance and safety monitoring
 
 Healthcare professionals, patients, and other stakeholders across Caribbean Member States may observe adverse reactions to medicines or vaccines, or identify potential quality issues during use. These events are reported through national systems or via the VigiCarib platform, a regional pharmacovigilance network coordinated by CARPHA. Reports are submitted through a secure system and routed to the relevant national authority, where they are validated and investigated according to national protocols.  
 
