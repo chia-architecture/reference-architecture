@@ -9,8 +9,9 @@ These building blocks represent modular capabilities that can be implemented ind
 ## Data consumers
 
 ## Data integration services
+### Integrators
+### Adapters
 
-## Data sources
 
 ## Shared healthcare services
 ### Authentication
@@ -22,3 +23,6 @@ These building blocks represent modular capabilities that can be implemented ind
 ### Healthcare provider registry
 ### Facility registry
 ### Product catalogue
+
+## Data sources
+
