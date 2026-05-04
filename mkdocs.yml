@@ -58,7 +58,6 @@ nav:
       - Medicines Quality Testing: use-cases/medicines-quality-testing.md
       - Pharmacovigilance: use-cases/pharmacovigilance.md
   - Contribute: contribute.md
-  - Governance: governance.md
   - About: about.md
 
 markdown_extensions:
