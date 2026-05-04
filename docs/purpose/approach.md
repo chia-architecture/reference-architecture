@@ -1,11 +1,12 @@
-# Approach
+# Open contribution model
 
-The reference architecture is intended to be developed in an **open, collaborative, and transparant environment** ensuring all stakeholders can contribute.
+This architecture is developed as an open and transparent initiative. Cross-border interoperability requires alignment between many stakeholders across countries, disciplines, and organisations. By making all content publicly available and open to contribution, CHIA enables broad participation and continuous improvement.
+
+This architecture impacts a wide range of stakeholders—including clinicians, patients, policymakers, and technical experts—and therefore encourages contributions from all relevant perspectives. Openness supports trust, adoption, and alignment across the region.
 
 ---
 
-
-## Constraints
+# Constraints
 
 The architecture operates within a number of important constraints:
 
@@ -14,21 +15,19 @@ The architecture operates within a number of important constraints:
 - **Heterogeneous IT landscapes**: Varying levels of digital maturity and infrastructure  
 - **Resource limitations**: Constraints in funding, capacity, and technical expertise  
 - **Digital inclusion**: Need to support populations with varying levels of digital access and literacy  
-- **Trust and governance**: Requirement for clear agreements on responsibilities, access, and data sharing  
+- **Trust and governance**: Requirement for clear agreements on responsibilities, access, and data sharing
+- **Diverse populations**: Different languages and cultural backgrounds
 
 ---
 
-## Deliverables
-**Architecture principles**
+# Deliverables
 
-This includes the descriptions, rationale and implications.
+The architecture will realise the following deliverables:
 
-**Reference Architecture**
+- **Architecture principles**: This includes the descriptions, rationale and implications.
 
-This includes the target architecture, definitions, building blocks, architecture decision records, and relevant initiatives.
+- **Reference Architecture**: This includes the target architecture, definitions, building blocks, architecture decision records, and relevant initiatives.
 
-**Architecture governance**
-
-This includes roles, processes, and decision-making frameworks.
+- **Architecture governance**: This includes roles, processes, and decision-making frameworks.
 
 ---
