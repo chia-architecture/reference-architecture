@@ -49,6 +49,7 @@ nav:
       - Breast cancer screening: use-cases/screening-breastcancer.md
       - Planned referral: use-cases/planned-referral.md
       - Advanced Laboratory Services: use-cases/laboratoryservices-microbiology.md
+      - Public Health Emergency Response: use-cases/publichealth-emergencyresponse.md
       - Emergency care: use-cases/cross-border-emergency-care.md
       - Specialist consultation: use-cases/specialist-consultation.md
   - Purpose: 
