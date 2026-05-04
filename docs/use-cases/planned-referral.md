@@ -1,6 +1,5 @@
 # Planned referral
 
-## Scenario
 A patient in Country A is referred to a specialised healthcare provider in Country B for planned treatment (e.g. oncology, cardiology).
 
 ## Problem today
