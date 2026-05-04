@@ -50,7 +50,7 @@ nav:
       - Planned referral: use-cases/planned-referral.md
       - Advanced Laboratory Services: use-cases/laboratoryservices-microbiology.md
       - Emergency Response: use-cases/publichealth-emergencyresponse.md
-      - Medicines Quality Assurance: use-cases/medicines-quality-assurance.md
+      - Medicines Regulatory Approval: use-cases/medicines-regulatory-approval.md
   - Purpose: 
       - Context: purpose/index.md
       - Scope and objective: purpose/scope-objective.md
