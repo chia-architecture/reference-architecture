@@ -1,2 +1,2 @@
 # Use cases
-
+Use cases describe concrete, real-world scenarios that illustrate how systems, actors, and information interact to achieve a specific outcome. Within this reference architecture, use cases are used to make the architecture tangible by showing how different components and services support practical healthcare situations. They currently serve to validate whether the architecture aligns with actual cross-border healthcare needs, highlight potential gaps or limitations, and provide a basis for discussion and refinement. They also illustrate how the architecture can be applied in practice and can serve as inspiration for future use cases as the architecture evolves.
