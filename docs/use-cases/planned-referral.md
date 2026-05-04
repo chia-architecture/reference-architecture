@@ -4,7 +4,7 @@ Residents of Bonaire, Saba, and Sint Eustatius receive primary and some secondar
 
 Travel, accommodation, and coordination of care are centrally organised, and multiple healthcare providers across countries are involved in the patient journey. This use case illustrates a highly distributed care pathway, where clinical decision-making, diagnostics, treatment, and follow-up may take place across several jurisdictions, requiring strong coordination and information exchange.
 
-## Problem today
+## Challenges today
 - Referral processes require significant coordination across organisations and countries
 - Patient information is fragmented across systems and locations
 - Administrative approval and logistics can introduce delays
