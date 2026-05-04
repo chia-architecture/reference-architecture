@@ -4,7 +4,7 @@ The objective of the Caribbean Healthcare Interoperability Architecture is to pr
 
 It aims to reduce fragmentation, improve continuity of care, and enable better coordination across clinical care, public health, and regulatory processes. It supports stakeholders in designing and implementing solutions that are compatible with each other, while allowing flexibility in how these solutions are realised within local contexts.
 
-Rather than prescribing a single system or enforcing compliance, CHIA provides guidance that can be adopted incrementally. It enables countries and organisations to align over time, building on existing systems and investments, and fostering regional collaboration.
+Rather than prescribing a single system or enforcing compliance, it provides guidance that can be adopted incrementally. It enables countries and organisations to align over time, building on existing systems and investments, and fostering regional collaboration.
 
 ---
 
