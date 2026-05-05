@@ -11,7 +11,7 @@ Modularity simplifies change, reduces complexity, and improves maintainability a
 ## Implications
 
 - Process steps are reusable.
-- Systems are modular.
+- Systems/building blocks are modular and reusable.
 - Data is separated from functionality.
 - Applications can use external data and functions.
 - We avoid vendor lock-in.
