@@ -24,16 +24,25 @@ Click the “Edit” button on any page to propose a change.
 The repository is organised into the following main sections:
 
 - **/docs**  
-  Core documentation, including purpose, principles, architecture, and governance.
+  Core documentation and views, including purpose, principles, architecture, and governance.
 
-- **/docs/building-blocks**  
-  Reusable architecture components (e.g. patient identity, consent, terminology services).
+- **/docs/purpose**  
+  Main motivation and scope of this work.
 
-  - **/docs/use-cases**  
+- **/docs/principles**  
+  List of architecture principles.
+
+- **/docs/reference-architecture**  
+  Reusable architecture services and building blocks (e.g. patient identity, consent, terminology services).
+
+- **/docs/use-cases**  
   Practical use-cases potentially benefitting from the reference architecture.
 
-- **/diagrams**  
-  Visual representations of the architecture (e.g. mermaid format for collaboration).  
+- **/docs/assets**  
+  Visual representations, views and logos.
+
+- **/docs/stylesheets**  
+  Style information for the mkdocs website.
 
 - **/models**  
   Formal architecture models (e.g. ArchiMate exchange format).
