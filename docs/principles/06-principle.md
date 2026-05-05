@@ -10,9 +10,9 @@ Standardization supports reuse, scalability, automation, and reduces dependence 
 
 ## Implications
 
-- We follow international agreements (“apply or explain”).
+- We follow international agreements.
 - We design using the Nictiz interoperability model.
-- We implement according to agreed exchange standards (e.g. Twiin).
+- We implement according to agreed exchange standards.
 - We use open standards and interfaces.
 - We standardize processes and data.
 - We apply FAIR data principles.
