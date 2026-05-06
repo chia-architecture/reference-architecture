@@ -33,7 +33,7 @@ The repository is organised into the following main sections:
   List of architecture principles.
 
 - **/docs/reference-architecture**  
-  Reusable architecture services and building blocks (e.g. patient identity, consent, terminology services).
+  Reusable architecture services, building blocks (e.g. patient identity, consent, terminology services), and interaction models.
 
 - **/docs/use-cases**  
   Practical use-cases potentially benefitting from the reference architecture.
