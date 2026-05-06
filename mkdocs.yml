@@ -45,6 +45,7 @@ nav:
       - Terminology: reference-architecture/terminology.md
       - Services: reference-architecture/services.md
       - Building blocks: reference-architecture/building-blocks.md
+      - Interaction models: reference-architecture/interaction-models.md
       - Architecture decision records: reference-architecture/architecture-decision-records.md
       - Related initiatives: reference-architecture/related-initiatives.md
   - Use Cases:
