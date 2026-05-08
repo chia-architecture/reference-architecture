@@ -91,48 +91,48 @@ These building blocks represent modular capabilities that can be implemented ind
 |----------|----------|
 | Purpose | 2-3 lines |
 | Service | Shared healthcare service (consent registration) |
-| Key information | List of main entities |
+| Key information | Data sharing consent |
 | Furfilled by | Log aggregator, Log enrichment engine, Audit store, Altering engine (SIEM/SOAR) |
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
 
-## Client registry
+## Client registration
 
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Service | Shared healthcare service (client registration) |
+| Key information | Client |
+| Furfilled by | - |
 | Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
 
-## Healthcare provider registry
+## Healthcare provider registration
 
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Service | Shared healthcare service (healthcare provider registration) |
+| Key information | provider |
+| Furfilled by | - |
 | Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
 
-## Facility registry
+## Facility registration
 
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Service | Shared healthcare service (facility registration) |
+| Key information | facility |
+| Furfilled by | - |
 | Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
@@ -142,23 +142,10 @@ These building blocks represent modular capabilities that can be implemented ind
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Service | Shared healthcare service (product catalogue) |
+| Key information | medicine, medical device |
+| Furfilled by | - |
 | Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
-
-## Electronic Health Record
-
-| Attribute | Content |
-|----------|----------|
-| Purpose | 2-3 lines |
-| Service | Data source |
-| Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
