@@ -17,7 +17,7 @@ These building blocks represent modular capabilities that can be implemented ind
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
+| Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 ## Data distribution
 
@@ -30,7 +30,7 @@ These building blocks represent modular capabilities that can be implemented ind
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
+| Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 ## Data integration & adapter
 
@@ -43,7 +43,7 @@ These building blocks represent modular capabilities that can be implemented ind
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
+| Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 
 ## Authentication
@@ -57,7 +57,7 @@ These building blocks represent modular capabilities that can be implemented ind
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
+| Interoperability requirements | OAuth2, OpenID Connect, SAML2, X.509, FIDO2/WebAuthn |
 
 ## Autorisation
 
@@ -83,7 +83,7 @@ These building blocks represent modular capabilities that can be implemented ind
 | Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
+| Interoperability requirements | IHE ATNA, syslog, OpenTelemetry, FHIR AuditEvent |
 
 ## Consent registration
 
