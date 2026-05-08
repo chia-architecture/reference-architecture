@@ -52,7 +52,7 @@ These building blocks represent modular capabilities that can be implemented ind
 |----------|----------|
 | Purpose | 2-3 lines |
 | Service | Shared healthcare service (authentication) |
-| Key information | Credential Artifacts, Trust Anchors |
+| Key information | Credential Artifact, Trust Anchor |
 | Furfilled by | Identity provider, Token service, MFA Engine |
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
@@ -64,7 +64,20 @@ These building blocks represent modular capabilities that can be implemented ind
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Service | Shared healthcare service (autorisation) |
+| Key information | Audit log |
+| Furfilled by | Log aggregator, Log enrichment engine, Audit store, Altering engine (SIEM/SOAR) |
+| Regional constraints | List |
+| Upstream dependencies | List of building blocks |
+| Downstream dependencies | List of building blocks |
+| Interoperability requirements | Terminology, sematics, API's |
+
+## Audit tracing
+
+| Attribute | Content |
+|----------|----------|
+| Purpose | 2-3 lines |
+| Service | Shared healthcare service (audit tracing) |
 | Regional constraints | List |
 | Key information | List of main entities |
 | Cross-border considerations | ? |
@@ -72,41 +85,15 @@ These building blocks represent modular capabilities that can be implemented ind
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
 
-## Adressing en localisation
+## Consent registration
 
 | Attribute | Content |
 |----------|----------|
 | Purpose | 2-3 lines |
-| Service | Shared healthcare service |
-| Regional constraints | List |
+| Service | Shared healthcare service (consent registration) |
 | Key information | List of main entities |
-| Cross-border considerations | ? |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
-
-## Consent registry
-
-| Attribute | Content |
-|----------|----------|
-| Purpose | 2-3 lines |
-| Service | Shared healthcare service |
+| Furfilled by | Log aggregator, Log enrichment engine, Audit store, Altering engine (SIEM/SOAR) |
 | Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
-| Interoperability requirements | Terminology, sematics, API's |
-
-## Logging
-
-| Attribute | Content |
-|----------|----------|
-| Purpose | 2-3 lines |
-| Service | Shared healthcare service |
-| Regional constraints | List |
-| Key information | List of main entities |
-| Cross-border considerations | ? |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
