@@ -52,8 +52,8 @@ These building blocks represent modular capabilities that can be implemented ind
 |----------|----------|
 | Purpose | 2-3 lines |
 | Service | Shared healthcare service (authentication) |
-| Key information | - |
-| Furfilled by | Authenticator |
+| Key information | Credential Artifacts, Trust Anchors |
+| Furfilled by | Identity provider, Token service, MFA Engine |
 | Regional constraints | List |
 | Upstream dependencies | List of building blocks |
 | Downstream dependencies | List of building blocks |
