@@ -74,5 +74,10 @@ Constraint: The token is valid only for the specific PurposeOfUse and Scopes def
 
 ## Data exchange
 
+This model defines the mandatory logical sequence for retrieving, filtering, and delivering clinical data from a source system to a requesting provider. Its primary goal is to ensure that data is delivered only within the strict boundaries of the previously issued authorization token, while maintaining system resilience against network failures through asynchronous store-and-forward mechanisms.
+
+**Core**
+
+**Sequence**
 
 
