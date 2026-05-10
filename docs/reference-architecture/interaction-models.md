@@ -1,4 +1,5 @@
 # Interaction models
+Interaction models prescribe how different building blocks coordinate their actions to function as a unified system. Instead of just listing what each building block does, these models define the exact order of operations—like checking who you are before letting you see data, or making sure a patient's ID is unique before linking their medical records. They turn a collection of separate components into a coordinated system, ensuring that every step, from identity verification to data delivery, happens in the right sequence to prevent errors, protect privacy, and keep the whole network running smoothly for everyone involved.
 
 ## Identity record linkage
 This model defines the mandatory logical sequence for establishing a unique and verifiable identity for all entities (Patients, Providers, and Facilities) within the cross-border healthcare ecosystem. Its primary goal is to ensure that every interaction is anchored to a Regional Unique Identifier (patient: RUPI, provider: RUPID, or facility: RUFID), thereby preventing data fragmentation, duplicate records, and unauthorized access due to identity ambiguity.
