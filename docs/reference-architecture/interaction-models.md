@@ -11,7 +11,10 @@ This model defines the mandatory logical sequence for establishing a unique and 
 - Conflict Suspension: If probabilistic matching yields ambiguous results (potential duplicates), the process must halt automatically for manual adjudication. No automated merging or splitting occurs without human intervention.
 - Tripartite Validation: A valid care relationship requires simultaneous validation of three distinct identities: the Patient (RUPI), the Provider (RUPID), and the Facility (RUFID).
 
+**Building blocks involved**
+
 **Sequence**
+
 The interaction follows a strict four-phase dependency chain:
 
 Phase 1: Entity Ingestion & Matching
