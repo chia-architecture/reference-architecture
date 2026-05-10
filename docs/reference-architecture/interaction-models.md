@@ -43,18 +43,22 @@ Effect: All peer Registration Blocks receive the event and update their local in
 This model defines the mandatory logical sequence for verifying the identity of a requesting entity (Provider) and determining the specific scope of data access permitted for a target entity (Patient). Its primary goal is to enforce Zero-Trust principles by ensuring that no clinical data is retrieved unless a valid, scoped token has been issued based on real-time verification of credentials, relationships, and consent policies.
 
 **Core**
+
 - Verification Before Access: Authentication (Who are you?) and Authorization (What can you see?) must be completed and validated before any data retrieval request is processed.
 - Token-Based Delegation: The Authorization block does not participate in the data flow. It issues a scoped token; the Data Distributor enforces the token's scope.
 - Context-Aware Policy: Access decisions must dynamically consider the Purpose of Use (e.g., Emergency vs. Routine), the Provider's Specialty, and the Patient's Consent status.
 Immutable Audit: Every authorization decision must be logged with full context (Who, What, Why, When) before the token is issued.
 
 **Sequence**
+
 The interaction follows a strict three-phase dependency chain:
 
 Phase 1: Identity & Credential Verification (Authentication)
 
 Input: A request containing ProviderID, PatientID (Local), and PurposeOfUse.
+
 Action: The Authenticator queries the Health Provider Registration and Resident Registration.
+
 Logic:
 Provider Check: Verify the provider's license is ACTIVE and they are GOOD_STANDING.
 Patient Check: Resolve the local PatientID to a valid RUPI.
@@ -63,7 +67,9 @@ Failure: If either check fails, the sequence terminates with 403 Forbidden.
 Phase 2: Relationship & Policy Evaluation (Authorization)
 
 Prerequisite: Both Provider and Patient identities are verified.
+
 Action: The Authenticator invokes the Authorization Block with the context (RUPI, RUPID, PurposeOfUse).
+
 Logic:
 Relationship Check: Verify a valid Client Record exists (from Model 3.1) OR that an "Emergency Override" condition applies.
 Policy Check: Evaluate rules against the provider's specialty (e.g., "Psychiatrist cannot access unrelated dental records") and patient consent flags.
