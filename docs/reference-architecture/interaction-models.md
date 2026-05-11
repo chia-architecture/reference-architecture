@@ -21,13 +21,13 @@ Client registration; provider registration; facility registration; resident regi
 **Sequence**
 
 ## Authentication and autorisation
-This model defines the mandatory logical sequence for verifying the identity of a requesting entity (Provider) and determining the specific scope of data access permitted for a target entity (Patient). Its primary goal is to enforce Zero-Trust principles by ensuring that no clinical data is retrieved unless a valid, scoped token has been issued based on real-time verification of credentials, relationships, and consent policies.
+This model defines the mandatory logical sequence for verifying the identity of a requesting entity (Provider) and determining the specific scope of data access permitted for a target entity (Patient). Its primary goal is to enforce Zero-Trust principles by ensuring that no data is retrieved unless a valid, scoped token has been issued based on real-time verification of credentials, relationships, and consent policies.
 
-**Core**
+**Requirements**
 
-- Verification Before Access: Authentication (Who are you?) and Authorization (What can you see?) must be completed and validated before any data retrieval request is processed.
-- Token-Based Delegation: The Authorization block does not participate in the data flow. It issues a scoped token; the Data Distributor enforces the token's scope.
-- Context-Aware Policy: Access decisions must dynamically consider the Purpose of Use (e.g., Emergency vs. Routine), the Provider's Specialty, and the Patient's Consent status.
+- Authentication (Who are you?) and Authorization (What can you see?) must be completed and validated before any data retrieval request is processed.
+- The Authorization block does not participate in the data flow. It issues a scoped token; the Data Distributor enforces the token's scope.
+- Access decisions must dynamically consider the Purpose of Use (e.g., Emergency vs. Routine), the Provider's Specialty, and the Patient's Consent status.
 Immutable Audit: Every authorization decision must be logged with full context (Who, What, Why, When) before the token is issued.
 
 **Sequence**
