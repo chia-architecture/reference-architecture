@@ -4,9 +4,10 @@ Interaction models describe how building blocks coordinate and interact to funct
 ## Identity record linkage
 This model defines the mandatory logical sequence for establishing a unique and verifiable identity for all entities (Patients, Providers, and Facilities) within the cross-border healthcare ecosystem. Its primary goal is to ensure that every interaction is anchored to a Regional Unique Identifier (patient: RUPI, provider: RUPID, or facility: RUFID), thereby preventing data fragmentation, duplicate records, and unauthorized access due to identity ambiguity.
 
-**Core**
 
-- Uniqueness First: No care relationship (Client Record) can be established until a valid Regional Unique Identifier is resolved for the Patient, Provider, and Facility involved.
+**Requirements**
+
+- Uniqueness First: A care relationship (Client Record) can only be created after a valid Regional Unique Identifier has been confirmed for the patient, healthcare provider, and healthcare facility involved.
 - Deterministic Ordering: Identity resolution must complete successfully before linkage; linkage must complete successfully before authorization.
 - Conflict Suspension: If probabilistic matching yields ambiguous results (potential duplicates), the process must halt automatically for manual adjudication. No automated merging or splitting occurs without human intervention.
 - Tripartite Validation: A valid care relationship requires simultaneous validation of three distinct identities: the Patient (RUPI), the Provider (RUPID), and the Facility (RUFID).
