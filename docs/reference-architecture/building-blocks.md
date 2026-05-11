@@ -6,6 +6,12 @@ These building blocks represent modular capabilities that can be implemented ind
 
 ![Building blocks overview](../assets/views/building-blocks-overview.svg)
 
+The architecture establishes separate regional registries for clients, healthcare providers, and healthcare facilities. Each registry maintains a regional unique identifier for its respective entity:
+
+- RUCID — Regional Unique Client Identifier
+- RUPID — Regional Unique Provider Identifier
+- RUFID — Regional Unique Facility Identifier
+
 ## Data consumption
 
 | Attribute | Content |
