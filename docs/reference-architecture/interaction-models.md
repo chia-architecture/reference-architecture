@@ -25,7 +25,7 @@ This model defines the mandatory logical sequence for verifying the identity of 
 
 **Requirements**
 
-- Authentication (Who are you?) and authorization (What can you see?) must be completed before any data retrieval request is processed.
+- Authentication and authorization must be completed before any data retrieval request is processed.
 - Access/autorisation decisions consider the context of the patient, taking into account purpose of use (e.g., emergency vs. routine), the healthcare provider, the facility, and the patient's consent status.
 - Authentication and authorization is logged for audit tracebility.
 
