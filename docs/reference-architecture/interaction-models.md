@@ -8,12 +8,15 @@ This model defines the mandatory logical sequence for establishing a unique and 
 **Requirements**
 
 - Each entity (client, healthcare provider, and healthcare facility) must be identifiable through a unique regional identifier.
+- Regional identifiers are linked to regional provider and facility identifiers, establishing care relationships. 
 - Regional identifiers must remain linked to authoritative national registries, such as resident registries where available, ensuring alignment with nationally managed identity information.
-- Clients are linked to providers and facilities establishing care relationships.
-- Access to client information requires verification of the client (RUCID), healthcare provider (RUPID), and healthcare facility (RUFID) involved.
+- Access to client information requires authentication of the client (RUCID), healthcare provider (RUPID), and healthcare facility (RUFID) involved.
+- Access to client information requires confirming care relationships.
 - If identity matching produces ambiguous or conflicting results, the process must automatically stop for human review.
 
 **Building blocks involved**
+
+Client registration; provider registration; facility registration; resident registration
 
 **Sequence**
 
