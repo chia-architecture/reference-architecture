@@ -34,12 +34,7 @@ This model defines the mandatory logical sequence for verifying the identity of 
 1. The data consumer building block (human/system) requests access to client information for a specific purpose of use (e.g., treatment or emergency care).
 2. The identity of the data consumer is verified by the data distributer through the authentication building block using the the provider and facility registration building blocks.
 3. If identity verification fails, the request is denied and the process stops.
-4. The data distributer then evaluates using the authorisation building block whether the data consumer is allowed to access the requested information. This evaluation may consider:
-   - the care relationship between the client, provider, and facility
-   - the provider’s role or specialty
-   - the purpose of use
-   - the client’s consent status
-   - emergency access policies
+4. The data distributer then evaluates using the authorisation building block whether the data consumer is allowed to access the requested information. This evaluation may consider: the care relationship, the provider’s role, the purpose of use, the client’s consent status, and emergency access policies.
 5. If authorization is approved, an authorization decision is issued with the permitted access scope to the data distributer.
 6. The data distributer grants the permitted client information.
 7. All authentication, authorization, and access events are logged for audit and traceability purposes.
