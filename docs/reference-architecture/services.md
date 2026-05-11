@@ -42,13 +42,10 @@ Which building block or system provides the service.
 **Inputs / Outputs**  
 What data goes in and what comes out.
 
-**Dependencies**  
-Which foundational services are required (e.g. identity, consent).
-
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
 
-## Data exchange services
+## Cross-border integration services
 **Capabilities**  
 What the service enables (functional behavior).
 
@@ -61,13 +58,10 @@ Which building block or system provides the service.
 **Inputs / Outputs**  
 What data goes in and what comes out.
 
-**Dependencies**  
-Which foundational services are required (e.g. identity, consent).
-
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
 
-## Data storage services
+## Data distribution services
 **Capabilities**  
 What the service enables (functional behavior).
 
@@ -80,13 +74,10 @@ Which building block or system provides the service.
 **Inputs / Outputs**  
 What data goes in and what comes out.
 
-**Dependencies**  
-Which foundational services are required (e.g. identity, consent).
-
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
 
-## Shared digital healthcare services
+## Shared services
 **Capabilities**  
 What the service enables (functional behavior).
 
@@ -98,9 +89,6 @@ Which building block or system provides the service.
 
 **Inputs / Outputs**  
 What data goes in and what comes out.
-
-**Dependencies**  
-Which foundational services are required (e.g. identity, consent).
 
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
