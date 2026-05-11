@@ -29,6 +29,9 @@ This model defines the mandatory logical sequence for verifying the identity of 
 - Access/autorisation decisions consider the context of the patient, taking into account purpose of use (e.g., emergency vs. routine), the healthcare provider, the facility, and the patient's consent status.
 - Authentication and authorization is logged for audit tracebility.
 
+**Building blocks involved**
+Authentication; Authorisation; Client registration; Client registration; provider registration; facility registration; consent registration
+
 **Sequence**
 
 1. The data consumer building block (human/system) requests access to client information for a specific purpose of use (e.g., treatment or emergency care).
@@ -43,7 +46,9 @@ This model defines the mandatory logical sequence for verifying the identity of 
 
 This model defines the mandatory logical sequence for retrieving, filtering, and delivering clinical data from a source system to a requesting provider. Its primary goal is to ensure that data is delivered only within the strict boundaries of the previously issued authorization token, while maintaining system resilience against network failures through asynchronous store-and-forward mechanisms.
 
-**Core**
+**Requirements**
+
+**Building blocks involved**
 
 **Sequence**
 
