@@ -31,36 +31,18 @@ This model defines the mandatory logical sequence for verifying the identity of 
 
 **Sequence**
 
-The interaction follows a strict three-phase dependency chain:
-
-Phase 1: Identity & Credential Verification (Authentication)
-
-Input: A request containing ProviderID, PatientID (Local), and PurposeOfUse.
-
-Action: The Authenticator queries the Health Provider Registration and Resident Registration.
-
-Logic:
-Provider Check: Verify the provider's license is ACTIVE and they are GOOD_STANDING.
-Patient Check: Resolve the local PatientID to a valid RUPI.
-Failure: If either check fails, the sequence terminates with 403 Forbidden.
-
-Phase 2: Relationship & Policy Evaluation (Authorization)
-
-Prerequisite: Both Provider and Patient identities are verified.
-
-Action: The Authenticator invokes the Authorization Block with the context (RUPI, RUPID, PurposeOfUse).
-
-Logic:
-Relationship Check: Verify a valid Client Record exists (from Model 3.1) OR that an "Emergency Override" condition applies.
-Policy Check: Evaluate rules against the provider's specialty (e.g., "Psychiatrist cannot access unrelated dental records") and patient consent flags.
-Outcome: A set of Allowed_Scopes (e.g., read:allergies, read:medications) or DENIED.
-
-Phase 3: Token Issuance & Handoff
-
-Prerequisite: Allowed_Scopes is not empty.
-Action: The Authenticator generates a signed JWT Token containing the Allowed_Scopes, Expiry, and Audience.
-Outcome: The token is returned to the Data Consumer.
-Constraint: The token is valid only for the specific PurposeOfUse and Scopes defined. It cannot be reused for other patients or purposes.
+1. The data consumer building block (human/system) requests access to client information for a specific purpose of use (e.g., treatment or emergency care).
+2. The identity of the data consumer is verified by the data distributer through the authentication building block using the the provider and facility registration building blocks.
+3. If identity verification fails, the request is denied and the process stops.
+4. The data distributer then evaluates using the authorisation building block whether the data consumer is allowed to access the requested information. This evaluation may consider:
+   - the care relationship between the client, provider, and facility
+   - the provider’s role or specialty
+   - the purpose of use
+   - the client’s consent status
+   - emergency access policies
+5. If authorization is approved, an authorization decision is issued with the permitted access scope to the data distributer.
+6. The data distributer grants the permitted client information.
+7. All authentication, authorization, and access events are logged for audit and traceability purposes.
 
 ## Data exchange
 
