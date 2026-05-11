@@ -53,7 +53,7 @@ What the service enables (functional behavior).
 Who uses the service (systems, organizations, or people).
 
 **Provider**  
-Which building block or system provides the service.
+Data integrstors & adapters
 
 **Inputs / Outputs**  
 What data goes in and what comes out.
@@ -69,7 +69,7 @@ What the service enables (functional behavior).
 Who uses the service (systems, organizations, or people).
 
 **Provider**  
-Which building block or system provides the service.
+Data distributers
 
 **Inputs / Outputs**  
 What data goes in and what comes out.
@@ -84,8 +84,8 @@ What the service enables (functional behavior).
 **Consumers**  
 Who uses the service (systems, organizations, or people).
 
-**Provider**  
-Which building block or system provides the service.
+**Provider**
+Authentication; Autorisation; Client registration; Provider registration; Facility registration; Consent registration
 
 **Inputs / Outputs**  
 What data goes in and what comes out.
