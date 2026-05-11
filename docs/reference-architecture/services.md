@@ -4,14 +4,14 @@ This section describes how different layers of services enable cross-border heal
 
 ![Services overview](../assets/views/services-overview.svg)
 
-CHIA distinguishes between different categories of services that together enable interoperable healthcare across borders. These services are defined as follows:
+This architecture distinguishes between different categories of services that together enable interoperable healthcare across borders. These services are defined as follows:
 
-- **National healthcare delivery services**: The actual provision of care to patients by healthcare professionals and organisations
-- **Cross-border healthcare services**: Core healthcare-specific capabilities, such as clinical workflows, patient management, and care coordination  
-- **Data exchange services**: Mechanisms that enable the secure and standardized exchange of data between systems
-- **Data storage service**: Inherently distributed sources of healthcare data and can be used a source for delivery
-- **Shared digital healthcare services**: Reusable services that support multiple healthcare applications (e.g. patient identity, consent, registries)  
-- **Foundational digital public services**: Cross-sector services such as digital identity, financial transaction, energy management, transportation, and other infrastructure used across domains  
+- **National healthcare delivery services**: The actual provision of care to clients and patients by healthcare professionals and organisations
+- **Cross-border healthcare services**: Cross-border healthcare capabilities, such as integrated clinical workflows, patient management, and care coordination.
+- **Regional healthcare hub services**: Mechanisms that enable integration and standardisation of data between systems
+- **Data distribution service**: Inherently distributed sources of healthcare data and can be used a source for delivery
+- **Shared services**: Reusable services that support multiple healthcare applications for cross-cross-border data sharing (e.g. patient indentification, consent, registries)  
+- **Foundational services**: Cross-sector services such as digital identity, financial transaction, energy management, transportation, and other infrastructure used across domains  
 - **Trust frameworks**: Legal, organizational, and governance agreements that enable trusted cross-border collaboration  
 - **Terminology & semantics services**: Standards and services that ensure consistent meaning and interpretation of health data
 
