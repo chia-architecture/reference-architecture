@@ -10,12 +10,8 @@ In healthcare, citizens must be able to trust that their data is secure. Safe ca
 
 ## Implications
 
-- We comply with national laws and regulations.
-- Access is limited to authorized persons.
-- We safeguard availability, integrity, and confidentiality.
-- We log and regularly review access to sensitive data.
-- We exchange only necessary data.
-- Security is integrated in design and implementation.
-- Transparency exists about who accesses data.
+- Authentication (Who are you?) and authorization (What can you see?) must be completed before any data retrieval request is processed.
+- Access/autorisation decisions consider the context of the patient, taking into account purpose of use (e.g., emergency vs. routine), the healthcare provider, the facility, and the patient's consent status.
+- Authentication and authorization is logged for audit tracebility.
 
 <small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
