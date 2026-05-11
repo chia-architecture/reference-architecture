@@ -7,10 +7,15 @@ This model defines the mandatory logical sequence for establishing a unique and 
 
 **Requirements**
 
-- Uniqueness First: A care relationship (Client Record) can only be created after a valid Regional Unique Identifier has been confirmed for the patient, healthcare provider, and healthcare facility involved.
-- Deterministic Ordering: Identity resolution must complete successfully before linkage; linkage must complete successfully before authorization.
-- Conflict Suspension: If probabilistic matching yields ambiguous results (potential duplicates), the process must halt automatically for manual adjudication. No automated merging or splitting occurs without human intervention.
-- Tripartite Validation: A valid care relationship requires simultaneous validation of three distinct identities: the Patient (RUPI), the Provider (RUPID), and the Facility (RUFID).
+## Underlying requirements
+
+- Uniqueness First: A client record can only be created or linked after a valid RUCID has been confirmed.
+- Deterministic Ordering: Identity verification must be completed before records can be linked, and record linkage must be completed before authorization or data access can be granted. 
+- Conflict Suspension: If identity matching produces ambiguous or conflicting results, the process must automatically stop for manual review.
+- Contextual Authorization: Access to client information requires verification of the client (RUCID), healthcare provider (RUPID), and healthcare facility (RUFID) involved.
+- Authoritative Source Alignment: Regional identifiers must remain linked to authoritative national registries where available, ensuring alignment with nationally managed identity information.
+- Traceable Care Relationships: Care relationships between clients, providers, and facilities must be traceable, time-bound, and auditable.
+- Federated Ownership: Participating countries and organisations retain ownership of their source systems and identity data.
 
 **Building blocks involved**
 
