@@ -7,43 +7,15 @@ This model defines the mandatory logical sequence for establishing a unique and 
 
 **Requirements**
 
-## Underlying requirements
-
-- Uniqueness First: A client record can only be created or linked after a valid RUCID has been confirmed.
-- Deterministic Ordering: Identity verification must be completed before records can be linked, and record linkage must be completed before authorization or data access can be granted. 
-- Conflict Suspension: If identity matching produces ambiguous or conflicting results, the process must automatically stop for manual review.
-- Contextual Authorization: Access to client information requires verification of the client (RUCID), healthcare provider (RUPID), and healthcare facility (RUFID) involved.
-- Authoritative Source Alignment: Regional identifiers must remain linked to authoritative national registries where available, ensuring alignment with nationally managed identity information.
-- Traceable Care Relationships: Care relationships between clients, providers, and facilities must be traceable, time-bound, and auditable.
-- Federated Ownership: Participating countries and organisations retain ownership of their source systems and identity data.
+- Each entity (client, healthcare provider, and healthcare facility) must be identifiable through a unique regional identifier.
+- Regional identifiers must remain linked to authoritative national registries, such as resident registries where available, ensuring alignment with nationally managed identity information.
+- Clients are linked to providers and facilities establishing care relationships.
+- Access to client information requires verification of the client (RUCID), healthcare provider (RUPID), and healthcare facility (RUFID) involved.
+- If identity matching produces ambiguous or conflicting results, the process must automatically stop for human review.
 
 **Building blocks involved**
 
 **Sequence**
-
-The interaction follows a strict four-phase dependency chain:
-
-Phase 1: Entity Ingestion & Matching
-
-Input: Demographic and credential data is submitted for a Patient, Provider, and/or Facility.
-Action: The respective Registration Blocks (Resident, Provider, Facility) query the regional registry to perform a match against existing records.
-Logic:
-Exact/Probabilistic Match: The system retrieves the existing Regional Unique Identifier (RUPI/RUPID/RUFID).
-No Match: The system generates a new, persistent Regional Unique Identifier.
-Conflict: If multiple potential matches exist with insufficient confidence, the state transitions to PENDING_ADJUDICATION.
-
-Phase 3: Relationship Binding (Linkage)
-
-Prerequisite: All entities are identified and verified as ACTIVE.
-Action: The Client Registration block creates a new Client Record (or updates an existing one) that logically binds the RUPI, RUPID, and RUFID together.
-Outcome: A persistent record is created representing the specific care relationship (e.g., "Dr. Smith [RUPID] is treating Patient X [RUPI] at Hospital Y [RUFID]").
-
-Phase 4: State Propagation
-
-Prerequisite: The Client Record is successfully created.
-Action: A ClientLinked event is published to the regional event bus.
-Effect: All peer Registration Blocks receive the event and update their local indexes to recognize the new relationship, ensuring that future queries from any jurisdiction can resolve the relationship immediately.
-
 
 ## Authentication and autorisation
 This model defines the mandatory logical sequence for verifying the identity of a requesting entity (Provider) and determining the specific scope of data access permitted for a target entity (Patient). Its primary goal is to enforce Zero-Trust principles by ensuring that no clinical data is retrieved unless a valid, scoped token has been issued based on real-time verification of credentials, relationships, and consent policies.
