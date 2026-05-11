@@ -64,12 +64,12 @@ Relevant legal, organizational, or technical constraints.
 
 ## Data distribution services
 
-Data distribution services enable the secure exchange, routing, and delivery of healthcare information between organisations, systems, and countries. They support the controlled sharing of data across jurisdictions, ensuring that relevant information becomes available to authorised consumers at the right place and time. These services may distribute information between systems such as EHRs, LIMSs, RISs, PACSs, public health systems, and integration platforms.
+Data distribution services enable the secure sharing of healthcare information cross-border organisations and systems. They support the controlled sharing of data across jurisdictions, ensuring that relevant information becomes available to authorised consumers at the right place and time. These services may distribute information contained in national systems such as EHRs, LIMSs, RISs, PACSs, public health systems, and integration platforms.
 
 **Service users**  
-Data distribution services are used by healthcare provider within healthcare organisations and professionals involved in delivering care across national boundaries. This includes hospitals, primary care providers, laboratories, pharmacies, public health organisations, regulatory authorities, and emergency response organisations.
+Data distribution services are used by healthcare providers involved in delivering care across national boundaries. This includes roles within cross-border hospitals, primary care providers, laboratories, pharmacies, public health organisations, regulatory authorities, and emergency response organisations.
 
-These services may also be used by supporting digital systems such as electronic health records, laboratory information systems, referral systems, medicine registries, and public health surveillance platforms. Through these consumers, cross-border healthcare services support the exchange and use of healthcare information between countries and organisations.
+These services may also be used by supporting digital systems such as electronic health records, laboratory information systems, referral systems, medicine registries, and public health surveillance platforms. 
 
 **Outputs**  
 Outputs describe the local/national healthcare information within a jurisdiction.
