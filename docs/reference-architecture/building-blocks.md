@@ -21,8 +21,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | - |
 | Furfilled by | Healthcare providers, clients, EHRs, LIMSs, RISs, PACSs, public health systems, integration platforms |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Data distribution, Data integration & adaption |
+| Downstream dependencies | - |
 | Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 ## Data distribution
@@ -34,8 +34,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Clinical record, lab result, radiology information, medical image, public health data |
 | Furfilled by | EHRs, LIMSs, RISs, PACSs, public health systems, integration platforms |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Authenication, Authorisation |
+| Downstream dependencies | Data consumption, Data integration & adaption |
 | Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 ## Data integration & adapter
@@ -47,8 +47,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Message transformations, mappings, orchestration rules, canonical models |
 | Furfilled by | Integration platforms |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Data consumption, Data distribution, Authenication, Authorisation |
+| Downstream dependencies | Data consumption, Data distribution, Authenication, Authorisation |
 | Interoperability requirements | HL7 FHIR, CDA, DICOM, IHE profiles, SNOMED CT, LOINC |
 
 
@@ -61,8 +61,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Credential Artifact, Trust Anchor |
 | Furfilled by | Identity provider, Token service, MFA Engine |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Client registration, Provider Registration, Facility registration |
+| Downstream dependencies | Data distribution, Data integration & adaption |
 | Interoperability requirements | OAuth2, OpenID Connect, SAML2, X.509, FIDO2/WebAuthn |
 
 ## Autorisation
@@ -74,8 +74,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Audit log |
 | Furfilled by | Log aggregator, Log enrichment engine, Audit store, Altering engine (SIEM/SOAR) |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Authentication, Consent registration |
+| Downstream dependencies | Data distribution, Data integation & adaption |
 | Interoperability requirements | Terminology, sematics, API's |
 
 ## Audit tracing
@@ -87,8 +87,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Regional constraints | List |
 | Key information | List of main entities |
 | Cross-border considerations | ? |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Authenication, Authorisation |
+| Downstream dependencies | - |
 | Interoperability requirements | IHE ATNA, syslog, OpenTelemetry, FHIR AuditEvent |
 
 ## Consent registration
@@ -100,8 +100,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Data sharing consent |
 | Furfilled by | Log aggregator, Log enrichment engine, Audit store, Altering engine (SIEM/SOAR) |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Client registration |
+| Downstream dependencies | Authoristation |
 | Interoperability requirements | Terminology, sematics, API's |
 
 ## Client registration
@@ -113,8 +113,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | Client |
 | Furfilled by | - |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Resident registration |
+| Downstream dependencies | Authentication, Consent registration |
 | Interoperability requirements | Terminology, sematics, API's |
 
 ## Healthcare provider registration
@@ -126,8 +126,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | provider |
 | Furfilled by | - |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | Resident registration |
+| Downstream dependencies | Client registration, Authentication |
 | Interoperability requirements | Terminology, sematics, API's |
 
 ## Facility registration
@@ -139,8 +139,8 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | facility |
 | Furfilled by | - |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
-| Downstream dependencies | List of building blocks |
+| Upstream dependencies | - |
+| Downstream dependencies | Authentication, Client registration |
 | Interoperability requirements | Terminology, sematics, API's |
 
 ## Product catalogue
@@ -152,7 +152,7 @@ The architecture establishes separate regional registries for clients, healthcar
 | Key information | medicine, medical device |
 | Furfilled by | - |
 | Regional constraints | List |
-| Upstream dependencies | List of building blocks |
+| Upstream dependencies | - |
 | Downstream dependencies | List of building blocks |
 | Interoperability requirements | Terminology, sematics, API's |
 
