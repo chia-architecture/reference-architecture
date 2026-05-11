@@ -36,11 +36,11 @@ What the service enables (functional behavior).
 **Consumers**  
 Who uses the service (systems, organizations, or people).
 
-**Provider**  
-Data consumers
-
-**Inputs / Outputs**  
+**Outputs**  
 What data goes in and what comes out.
+
+**Building blocks**  
+Data consumers
 
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
@@ -52,11 +52,11 @@ What the service enables (functional behavior).
 **Consumers**  
 Who uses the service (systems, organizations, or people).
 
-**Provider**  
-Data integrstors & adapters
-
-**Inputs / Outputs**  
+**Outputs**  
 What data goes in and what comes out.
+
+**Building blocks**  
+Data integrstors & adapters
 
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
@@ -68,11 +68,11 @@ What the service enables (functional behavior).
 **Consumers**  
 Who uses the service (systems, organizations, or people).
 
-**Provider**  
-Data distributers
-
-**Inputs / Outputs**  
+**Outputs**  
 What data goes in and what comes out.
+
+**Building blocks**  
+Data distributers
 
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
@@ -84,11 +84,11 @@ What the service enables (functional behavior).
 **Consumers**  
 Who uses the service (systems, organizations, or people).
 
-**Provider**
-Authentication; Autorisation; Client registration; Provider registration; Facility registration; Consent registration
-
-**Inputs / Outputs**  
+**Outputs**  
 What data goes in and what comes out.
+
+**Building blocks**
+Authentication; Autorisation; Client registration; Provider registration; Facility registration; Consent registration
 
 **Constraints**  
 Relevant legal, organizational, or technical constraints.
