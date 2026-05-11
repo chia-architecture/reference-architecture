@@ -30,6 +30,7 @@ This model defines the mandatory logical sequence for verifying the identity of 
 - Authentication and authorization is logged for audit tracebility.
 
 **Building blocks involved**
+
 Authentication; Authorisation; Client registration; Client registration; provider registration; facility registration; consent registration
 
 **Sequence**
