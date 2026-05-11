@@ -40,7 +40,7 @@ Cross-border healthcare services are primarily used by healthcare organisations 
 These services may also be consumed by supporting digital systems such as electronic health records, laboratory information systems, referral systems, medicine registries, and public health surveillance platforms. Through these consumers, cross-border healthcare services support the exchange and use of healthcare information between countries and organisations.
 
 **Outputs**  
-What data goes in and what comes out.
+Outputs describe the integrated healthcare information produced or exchanged by a cross-border healthcare service. These outputs combine relevant information from different organisations and jurisdictions to provide a more complete client context for healthcare delivery, coordination, regulation, and public health activities.
 
 **Building blocks**  
 Data consumers
