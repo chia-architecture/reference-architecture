@@ -37,7 +37,7 @@ What the service enables (functional behavior).
 Who uses the service (systems, organizations, or people).
 
 **Provider**  
-Which building block or system provides the service.
+Data consumers
 
 **Inputs / Outputs**  
 What data goes in and what comes out.
