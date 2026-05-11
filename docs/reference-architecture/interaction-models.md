@@ -48,9 +48,11 @@ This model defines the mandatory logical sequence for retrieving, filtering, and
 **Requirements**
 
 **Building blocks involved**
+
 Data consumer; Data integrator & adapter; Data distributer; Authentication; Authorisation;
 
 **Sequence**
+
 1. The data consumer building block (human/system) requests access to client information.
 2. The identity of the data consumer is verified by the data distributer through the authentication building block.
 3. If identity verification fails, the request is denied and the process stops.
