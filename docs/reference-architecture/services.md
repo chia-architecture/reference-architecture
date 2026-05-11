@@ -30,11 +30,14 @@ Trust agreement frameworks are not specified within the reference architecture i
 Similarly, foundational digital public services are not defined in detail. Their availability and maturity vary across countries and are considered an important constraint for the realization of interoperable solutions.
 
 ## Cross-border healthcare services
-**Capabilities**  
-What the service enables (functional behavior).
+Cross-border healthcare services enable healthcare organisations, professionals, and supporting institutions in different countries to collaborate and exchange information as part of healthcare delivery. These services support processes such as referrals, diagnostics, laboratory testing, medicines monitoring, and public health coordination by allowing relevant healthcare information to be securely shared, interpreted, and acted upon across organisational and national boundaries.
 
-**Consumers**  
-Who uses the service (systems, organizations, or people).
+By integrating information from multiple systems and jurisdictions, cross-border healthcare services provide healthcare professionals with a more complete view of the client’s health context. This supports better clinical decision-making, continuity of care, operational coordination, and regional public health response.
+
+**Service users**  
+Cross-border healthcare services are primarily used by healthcare organisations and professionals involved in delivering or supporting care across national boundaries. This includes hospitals, primary care providers, laboratories, pharmacies, public health organisations, regulatory authorities, and emergency response organisations.
+
+These services may also be consumed by supporting digital systems such as electronic health records, laboratory information systems, referral systems, medicine registries, and public health surveillance platforms. Through these consumers, cross-border healthcare services support the exchange and use of healthcare information between countries and organisations.
 
 **Outputs**  
 What data goes in and what comes out.
