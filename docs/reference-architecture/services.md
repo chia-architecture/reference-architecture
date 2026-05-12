@@ -47,14 +47,17 @@ Data consumers
 Relevant legal, organizational, or technical constraints.
 
 ## Cross-border integration services
-**Capabilities**  
-What the service enables (functional behavior).
 
-**Consumers**  
-Who uses the service (systems, organizations, or people).
+Cross-border integration services support the integration, transformation, and routing of healthcare information between organisations, systems, and jurisdictions. Their primary function is to establish interoperable integration points (“knooppunten”) that enable different systems and services to exchange information in a coordinated and reliable manner.
+
+These services are commonly implemented through integration platforms that mediate between systems with different technical capabilities, standards, or data structures. In addition to routing and orchestration, they may also function as adapters for non-compliant or legacy systems, enabling participation in cross-border interoperability without requiring complete replacement of existing infrastructure.
+
+**Service users**  
+These services may also be used by (non-compliant) digital systems such as electronic health records, laboratory information systems, referral systems, medicine registries, and public health surveillance platforms. 
 
 **Outputs**  
-What data goes in and what comes out.
+Outputs describe the integrated healthcare information over different jurisdictions.
+
 
 **Building blocks**  
 Data integrstors & adapters
