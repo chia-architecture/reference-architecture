@@ -2,7 +2,7 @@
 
 | Term | Meaning |
 |----------|----------|
-| Interoperability  | The ability of two or more systems or components to exchange information and to use the information that has been exchanged.  |
+| Interoperability  | The ability of two or more systems or components to exchange information and to use the information that has been exchanged. source: Institute of Electrical and Electronics Engineers  |
 | Architecture  | Architecture describes the structure, relationships, and guiding principles of systems, defining how components interact to deliver intended outcomes. In a cross-border context, it provides a shared conceptual model that enables independent stakeholders to align and interoperate without requiring uniform implementation. |
 | Reference architecture  | A reference architecture is a reusable, non-prescriptive framework that provides guidance, patterns, and building blocks for designing interoperable systems. In a cross-border setting, it serves as a shared point of reference that supports alignment across jurisdictions while preserving local autonomy and enabling compatible implementations. |
 | Architecture principle  | A architecture principles are specific guidelines that govern the development, maintenance, and use of the architecture. They are actionable directives for IT and architecture work. source: TOGAF |
