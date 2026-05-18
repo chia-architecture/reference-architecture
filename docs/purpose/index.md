@@ -10,7 +10,7 @@ To overcome the limitations of these domain-specific efforts, regional cooperati
 
 **Current interoperability challenges**
 
-Despite this strategic alignment, the absence of a dedicated Caribbean interoperability framework as described by Luna et al. [(2017)](../references.md#ref-luna2019) prevents these visions from becoming operational reality. Without a common standard, the region faces inconsistent patient registration, manual data transfers that are time-consuming and error-prone, and initiative-specific integrations that lack scalability. Furthermore, attempts to build centralized platforms stumble over governance challenges regarding data sovereignty, meaning that every new partnership is forced to reinvent the wheel rather than building on a shared foundation.
+Despite this strategic alignment, the absence of a dedicated Caribbean interoperability framework as described by Luna et al. [(2019)](../references.md#ref-luna2019) prevents these visions from becoming operational reality. Without a common standard, the region faces inconsistent patient registration, manual data transfers that are time-consuming and error-prone, and initiative-specific integrations that lack scalability. Furthermore, attempts to build centralized platforms stumble over governance challenges regarding data sovereignty, meaning that every new partnership is forced to reinvent the wheel rather than building on a shared foundation.
 
 **Reference architecture as intervention**
 
