@@ -8,21 +8,19 @@ This dependency on cross-border movement drives tangible cooperation initiatives
 
 To overcome the limitations of these domain-specific efforts, regional cooperation through interoperability has emerged as a strategic priority. Reports such as the [CARICOM (2016)](../references.md#ref-caricom2016) health agenda, the [PAHO (2017)](../references.md#ref-paho2017)/[PAHO (2020)](../references.md#ref-paho2020)/[Ramirez et al (2026)](../references.md#ref-ramirez2026) strategies, the [PAHO, WHO & CARICOM (2025)](../references.md#ref-paho2025) cooperation strategy,  the IDB [Doane et al. (2024)](../references.md#ref-doane2024)/[Doane et al. (2026)](../references.md#ref-doane2026) conferences, and the [WHO (2025)](../references.md#ref-who2025) strategy all emphasize cross-border data exchange as essential. Since interoperability is defined as the ability of systems to exchange and use information, it provides the necessary infrastructure to transform these disconnected projects into a cohesive system for coordinated care and shared surveillance.
 
+**Current interoperability challenges**
 
+Despite this strategic alignment, the absence of a dedicated Caribbean interoperability framework as described in [Luna et al. (2017)](../references.md#ref-luna2019) prevents these visions from becoming operational reality. Without a common standard, the region faces inconsistent patient registration, manual data transfers that are time-consuming and error-prone, and initiative-specific integrations that lack scalability. Furthermore, attempts to build centralized platforms stumble over governance challenges regarding data sovereignty, meaning that every new partnership is forced to reinvent the wheel rather than building on a shared foundation.
 
-**Why an interoperability architecture?**
+**Reference architecture as intervention**
 
-Cross-border data sharing cannot be solved through isolated integrations between systems. As the number of organisations and countries involved increases, point-to-point solutions become difficult to scale, maintain, and govern.
-
-An interoperability architecture provides a structured approach to this problem. It defines a set of common building blocks, data structures, and interaction patterns that allow systems to exchange information in a consistent way. This reduces complexity, enables reuse, and supports gradual adoption across different contexts. It also creates a shared understanding between stakeholders, which is essential for aligning technical, organisational, and legal aspects of interoperability.
+These challenges could be adressed with a reference architecture for interoperability. Such a framework serves as a consensus-based intervention that enables cooperation while preserving autonomy. It establishes common principles for interoperability and defines reusable building blocks that are implementation and technology-agnostic. By connecting these blocks through defined interaction models, the architecture prescribes common semantic, syntactic, and technical standards, ensuring that data exchange is consistent and scalable regardless of the specific technologies employed by individual organizations.
 
 Similar challenges are addressed in other regions through coordinated approaches, such as the European Health Data Space (EHDS) and the Trusted Exchange Framework and Common Agreement (TEFCA). These initiatives demonstrate that interoperability at scale requires not only technology, but also shared agreements and governance.
 
 **Why a Caribbean-specific architecture?**
 
-While international frameworks provide valuable reference points, they are typically designed for large, integrated markets with relatively uniform infrastructure and governance. The Caribbean context differs in several key aspects.
+The generic global framework is insufficient for this region; a Caribbean-specific architecture is required to address unique local constraints. Achieving interoperability here demands navigating a heterogeneous policy landscape where national autonomy is paramount, alongside vast variances in scale and human resources. The solution must accommodate the diversity of people, languages, and cultures, as well as the wide spectrum of digital maturity and technical capabilities across the islands. A tailored architecture ensures that the standards are flexible enough to fit these disparate realities without forcing a one-size-fits-all approach that would fail in practice.
 
-Healthcare systems are distributed across small island states with varying levels of digital maturity and resources. Cross-border collaboration is not an exception, but a structural characteristic of how care is delivered. At the same time, regional organisations already play an important role in coordinating activities such as laboratory services, regulatory processes, and public health response.
 
-A Caribbean-specific interoperability architecture builds on these existing patterns of collaboration. It focuses on enabling interoperability between independent systems and countries, rather than enforcing a single solution. By doing so, it supports practical implementation within existing constraints, while providing a shared foundation for future alignment and scaling across the region.
 
