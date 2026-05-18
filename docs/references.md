@@ -1,7 +1,5 @@
 # References
 
-@test
-
-[@test]
+This study is referenced here [@test].
 
 \bibliography
