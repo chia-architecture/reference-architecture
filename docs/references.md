@@ -10,13 +10,13 @@
 3. Caribbean Community. (2016). *Caribbean Cooperation in Health Phase IV (CCH IV): Summary of the Regional Health Framework 2016–2025*. CARICOM.
 
 <a id="ref-paho2025"></a>
-4. Pan American Health Organization & World Health Organization. (2025). *Joint PAHO/WHO-CARICOM Subregional Cooperation Strategy 2025–2029: Advancing health and equity in the Caribbean*. PAHO. https://iris.paho.org/handle/10665.2/68483
+4. Pan American Health Organization & World Health Organization. (2025). *Joint PAHO/WHO-CARICOM Subregional Cooperation Strategy 2025–2029: Advancing health and equity in the Caribbean*. PAHO. [paho-iris: 10665.2/68483](https://iris.paho.org/handle/10665.2/68483)
 
 <a id="ref-paho2020"></a>
-5. Pan American Health Organization. (2020). *Strategic Plan of the Pan American Health Organization 2020–2025: Equity at the heart of health*. PAHO. https://iris.paho.org/handle/10665.2/52473
+5. Pan American Health Organization. (2020). *Strategic Plan of the Pan American Health Organization 2020–2025: Equity at the heart of health*. PAHO. [paho-iris: 10665.2/52473](https://iris.paho.org/handle/10665.2/52473)
 
 <a id="ref-paho2017"></a>
-6. Pan American Health Organization. (2017). *Sustainable Health Agenda for the Americas 2018–2030: A call to action for health and well-being in the Region*. PAHO. https://iris.paho.org/handle/10665.2/49170
+6. Pan American Health Organization. (2017). *Sustainable Health Agenda for the Americas 2018–2030: A call to action for health and well-being in the Region*. PAHO. [paho-iris: 10665.2/49170](https://iris.paho.org/handle/10665.2/49170)
 
 <a id="ref-doane2024"></a>
 7. Doane, D., Kanjee, A., & Nelson, J. (2024). *Report Caribbean Connect: Building the Pan-American Highway for Digital Health*. [doi: 10.18235/0013204](https://doi.org/10.18235/0013204)
@@ -28,7 +28,7 @@
 9. Ramirez, E., Piermarini, M. A., Nelson, J., Velandia, M., Contreras, M., Marti, M., Nuñez, C., Portilla, F., Zegarra Ascui, F., D'Agostino, M., & Orefice, P. (2026). *The Pan-American Highway for Digital Health: Enabling trust for health data exchange: An opportunity for the Latin American and Caribbean region*. [doi: 10.18235/0013899](https://doi.org/10.18235/0013899)
 
 <a id="ref-who2025"></a>
-10. World Health Organization. (2025). *A Global Health Strategy for 2025–2028: Advancing equity and resilience in a turbulent world (Fourteenth General Programme of Work)*. WHO. https://www.who.int/publications/i/item/9789240101012
+10. World Health Organization. (2025). *A Global Health Strategy for 2025–2028: Advancing equity and resilience in a turbulent world (Fourteenth General Programme of Work)*. WHO. [who: 9789240101012](https://www.who.int/publications/i/item/9789240101012)
 
 <a id="ref-ieee1991"></a>
 11. Institute of Electrical and Electronics Engineers. (1991). *IEEE Standard Computer Dictionary: A compilation of IEEE standard computer glossaries*. IEEE.
@@ -40,4 +40,4 @@
 13. Bagolle, A., Park, M., & Marti, M. (2021). *Regulatory frameworks for digital health in Latin America and the Caribbean: Electronic health records: Progresses and next steps*. [doi: 10.18235/0003073](https://doi.org/10.18235/0003073)
 
 <a id="ref-ops2026"></a>
-14. Pan American Health Organization. (2026). *Informe regional sobre la situación de los sistemas de información para la salud en las Américas: Acelerando la transformación digital del sector salud en las Américas*. PAHO. https://iris.paho.org/handle/10665.2/70909
+14. Pan American Health Organization. (2026). *Informe regional sobre la situación de los sistemas de información para la salud en las Américas: Acelerando la transformación digital del sector salud en las Américas*. PAHO. [paho-iris: 10665.2/70909](https://iris.paho.org/handle/10665.2/70909)
