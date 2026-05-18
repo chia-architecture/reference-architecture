@@ -22,7 +22,9 @@ Finally, the principles of privacy by design and by default require that data pr
 *Other*
 
 
-**EHR-regulations**
+*EHR-regulations*
+
+**Standards Adoption Mandates**
 
 ## Trust Frameworks
 
