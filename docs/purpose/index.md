@@ -19,6 +19,6 @@ A regional reference architecture could address these challenges by providing a 
 
 **Why a Caribbean-specific architecture?**
 
-However, directly adopting generic international frameworks is unlikely to succeed in the Caribbean context. The region is characterized by strong national autonomy, substantial variation in institutional scale and digital maturity, linguistic and cultural diversity, and uneven technical and human resource capacity. A Caribbean-specific reference architecture is therefore necessary to accommodate these heterogeneous conditions while still enabling regional interoperability. Such an approach allows islands to participate according to their local capabilities without imposing a rigid one-size-fits-all model that would be difficult to operationalize.
+However, directly adopting generic international frameworks is unlikely to succeed in the Caribbean context. The region is characterized by heterogeneous policy landscapes [(Bagolle et al. 2021)](../references.md#ref-bagolle2021), substantial variation in digital and technical maturity [(PAHO 2021)](../references.md#ref-ops2026), linguistic and cultural diversity, and human resource capacity [(OECD 2023)](../references.md#ref-oecd2023). A Caribbean-specific reference architecture is therefore necessary to accommodate these heterogeneous conditions while still enabling regional interoperability. Such an approach allows islands to participate according to their local capabilities without imposing a rigid one-size-fits-all model that would be difficult to operationalize.
 
 
