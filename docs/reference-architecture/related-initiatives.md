@@ -3,7 +3,7 @@ When building the architecture, all documentation of the referenced initiatives 
 
 ## Legal bases
 
-**Privacy regulations**
+**Data Protection & Privacy Laws**
 
 *General Data Protection Regulation*
 
