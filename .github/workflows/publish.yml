@@ -26,14 +26,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
-
-       # --- For Mkdocs-Bibtext  ---
-      - name: Install Pandoc
-        uses: r-lib/actions/setup-pandoc@v2
-        with:
-          pandoc-version: '3.1'
-      # ---------------------------
+          python-version: '3.x'
 
       - name: Install dependencies
         run: |
