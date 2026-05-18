@@ -1,5 +1,5 @@
 # References
 
-This study is referenced here [@nist_zero_trust].
+This study is referenced here [@test].
 
 \bibliography
