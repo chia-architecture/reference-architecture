@@ -4,6 +4,12 @@ Caribbean healthcare quality and capacity are distributed unevenly across jurisd
 
 This dependency on cross-border movement drives tangible cooperation initiatives. Programs for cervical and breast cancer screening link the islands of Bonaire/St. Eustatius/Saba with Curaçao and the Netherlands. Referral pathways for these islands also include Aruba and Colombia, and CARPHA member states coordinate advanced laboratory and emergency response services. However, because these initiatives currently operate as isolated and rely on program-specific connections, they struggle to scale and do not create a unified regional ecosystem capable of supporting the broader clinical needs.
 
+**Strategic direction**
+
+To overcome the limitations of these domain-specific efforts, regional cooperation through interoperability has emerged as a strategic priority. Reports such as the [CARICOM (2016)](../references.md#ref-caricom2016) health agenda, the [PAHO (2017)](../references.md#ref-paho2017)/[PAHO (2020)](../references.md#ref-paho2020)/[Ramirez et al (2026)](../references.md#ref-ramirez2026) strategies, the [PAHO, WHO & CARICOM (2025)](../references.md#ref-paho2025) cooperation strategy,  the IDB [Doane et al. (2024)](../references.md#ref-doane2024)/[Doane et al. (2026)](../references.md#ref-doane2026) conferences, and the [WHO (2025)](../references.md#ref-who2025) strategy all emphasize cross-border data exchange as essential. Since interoperability is defined as the ability of systems to exchange and use information, it provides the necessary infrastructure to transform these disconnected projects into a cohesive system for coordinated care and shared surveillance.
+
+
+
 **Why an interoperability architecture?**
 
 Cross-border data sharing cannot be solved through isolated integrations between systems. As the number of organisations and countries involved increases, point-to-point solutions become difficult to scale, maintain, and govern.
