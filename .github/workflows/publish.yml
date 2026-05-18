@@ -28,12 +28,13 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install MkDocs
+      - name: Install dependencies
         run: |
-          pip install mkdocs-material
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Build site
-        run: mkdocs build
+        run: mkdocs build --clean
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
