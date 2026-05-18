@@ -80,5 +80,4 @@ plugins:
       csl_file: refs/apa.csl          # Point to your downloaded file
       enable_inline_citations: true
       bib_by_default: false         # We will manually place \bibliography
-      footnote_format: "{num}"      # Keeps footnotes numbered if used internally
-      
+      footnote_format: "{key}"      # Keeps footnotes numbered if used internally      
