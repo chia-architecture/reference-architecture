@@ -28,6 +28,8 @@ Finally, the principles of privacy by design and by default require that data pr
 
 **Cross-Border Data Exchange Agreements**
 
+**Governance, Security & Audit Regulations**
+
 ## Trust Frameworks
 
 **Trusted Exchange Framework and Common Agreement**
