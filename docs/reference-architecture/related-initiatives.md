@@ -1,7 +1,7 @@
 # Related work
 When building the architecture, all documentation of the referenced initiatives are considered.
 
-## Legal basis
+## Legal bases
 
 **Privacy regulations**
 
