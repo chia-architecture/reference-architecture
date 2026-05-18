@@ -11,5 +11,13 @@
 | Interaction model | An interaction model describes how building blocks should collaborate through the use of service delivery |
 | Architecture decision record  | A significant architectural decision, including its context, the decision made, and the consequences.  |
 | Trust framework | A trust framework is a set of agreements, rules, and mechanisms that define how organisations establish and maintain trust when exchanging data. It specifies roles, responsibilities, and conditions for participation, including identity verification, authentication, authorization, and compliance with legal and security requirements. |
+| CARICOM | Caribbean Communcity |
+| PAHO | Pan American Health Organization |
+| CARPHA | Caribbean Public Health Agency |
+| WHO | World Health Organization |
+| IDB | Inter-American Development Bank |
+
+
+
 
 
