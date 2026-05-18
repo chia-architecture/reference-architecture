@@ -5,7 +5,7 @@ When building the architecture, all documentation of the referenced initiatives 
 
 **Privacy regulations**
 
-*General Data Protection Regulation (GDPR)*
+*General Data Protection Regulation*
 
 The General Data Protection Regulation (GDPR) treats health data as a special category of personal data, allowing processing only under strict legal bases such as healthcare delivery, public health, or explicit consent, each supported by additional safeguards.
 
