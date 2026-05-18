@@ -3,6 +3,26 @@ When building the architecture, all documentation of the referenced initiatives 
 
 ## Legal basis
 
+**Privacy regulations**
+
+*General Data Protection Regulation (GDPR)*
+
+The General Data Protection Regulation (GDPR) treats health data as a special category of personal data, allowing processing only under strict legal bases such as healthcare delivery, public health, or explicit consent, each supported by additional safeguards.
+
+For a reference architecture, this implies purpose-bound and data-minimised exchange, ensuring that only necessary clinical or public health information is shared across borders. Clear allocation of responsibility through controller–processor or joint controller agreements is essential to maintain accountability across jurisdictions.
+
+Systems must also include strong access control and full auditability, so that all access to health data is traceable and reviewable. This supports oversight in multi-actor, cross-border environments.
+
+Finally, the principles of privacy by design and by default require that data protection is embedded into the architecture from the outset. This means privacy-preserving choices are the default setting (e.g., minimal data exposure, restricted access), and system design actively integrates security, identity management, and controlled data exchange rather than treating them as add-ons.
+
+*Legacy EU Data Protection Directive (95/46/EC)*
+
+*US federal sectoral regime (HIPAA etc.)*
+
+*Other*
+
+
+**EHR-regulations**
 
 ## Trust Frameworks
 
