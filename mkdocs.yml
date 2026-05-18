@@ -74,5 +74,4 @@ plugins:
   - search
   - bibtex:
       bib_file:
-        - refs/external.bib
-        - refs/internal.bib
+        - refs/references.bib
