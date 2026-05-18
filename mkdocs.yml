@@ -75,4 +75,4 @@ extra_css:
 plugins:
   - search
   - bibtex:
-      bib_file: /refs/references.bib
+      bib_file: refs/references.bib
