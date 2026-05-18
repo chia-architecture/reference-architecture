@@ -65,6 +65,8 @@ nav:
 
 markdown_extensions:
   - footnotes
+  - pymdownx.citations:
+      bibliography: /refs/refs.bib
   - admonition
   - tables
   - toc:
