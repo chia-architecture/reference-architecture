@@ -1,4 +1,4 @@
-# Related initiatives
+# Related work
 When building the architecture, all documentation of the referenced initiatives are considered.
 
 ## Trust Frameworks
