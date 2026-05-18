@@ -1,3 +1,3 @@
 # References
 
-```bibtex
+\bibliography
