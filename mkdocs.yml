@@ -28,6 +28,7 @@ nav:
       - Context: purpose/index.md
       - Objective and scope: purpose/scope-objective.md
       - Approach: purpose/approach.md
+      - Related work: reference-architecture/related-initiatives.md
   - Architecture Principles: 
       - Introduction: principles/index.md
       - People-centred care: principles/01-principle.md
@@ -47,7 +48,6 @@ nav:
       - Building blocks: reference-architecture/building-blocks.md
       - Interaction models: reference-architecture/interaction-models.md
       - Architecture decision records: reference-architecture/architecture-decision-records.md
-      - Related initiatives: reference-architecture/related-initiatives.md
   - Use Cases:
       - Introduction: use-cases/index.md
       - Cervical cancer screening: use-cases/screening-cervicalcancer.md
