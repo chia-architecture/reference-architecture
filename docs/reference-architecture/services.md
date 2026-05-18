@@ -1,6 +1,6 @@
 # Services
 
-This section describes how different layers of services enable cross-border healthcare interoperability.
+This section describes how different layers of services enable cross-border healthcare interoperability.[@adr_serviceoriented]
 
 ![Services overview](../assets/views/services-overview.svg)
 
