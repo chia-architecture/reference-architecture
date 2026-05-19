@@ -57,6 +57,8 @@ World Health Organization maintains a global standard for disease classification
 
 Regenstrief Institute maintains a standard for laboratory tests and clinical measurements. Critical for lab interoperability and widely adopted globally, often used alongside SNOMED CT.
 
+## Technical
+
 **FHIR Terminology Services**
 
 HL7 International maintains the terminology services which determines how terminology systems are used in practice (e.g. value sets, code systems, mappings). Provides APIs for validation, lookup, and translation. Increasingly the operational layer for semantics.
