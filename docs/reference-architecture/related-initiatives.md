@@ -93,8 +93,3 @@ World Health Organization, & International Telecommunication Union. (2020). Digi
 **Paving the Pan American Highway for Digital Health**
 
 Initiated by the IDB and PAHO, the general objective is to provide high-quality, safe, and efficient digital healthcare services in the region and to strengthen regional resilience to epidemics and public health emergencies through the creation of the Pan American Route for Digital Health. The specific objectives are (i) to establish a harmonized legal framework and acquire the necessary regional digital infrastructure for cross-border data exchange; (ii) to improve national preparedness for implementing cross-border digital health services; and (iii) to empower individuals to consult and share their medical data, giving them greater control over their health.
-
-
-**Reports on global barriers for interoperability**
-
-The Global Digital Health Partnership (GDHP) is an international collaboration of governments and health authorities that works to advance digital health through shared learning and alignment on best practices. In the area of interoperability, GDHP has produced key reports such as Advancing Interoperability Together Globally and Connected Health: Empowering Health through Interoperability. These reports outline common challenges, guiding principles, and practical approaches for enabling data exchange across health systems, with a strong emphasis on standards adoption, governance, and real-world implementation. Through this work, GDHP supports countries in aligning their digital health strategies while accommodating different levels of maturity and promoting a globally coordinated approach to interoperability.
