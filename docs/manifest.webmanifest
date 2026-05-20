@@ -3,8 +3,8 @@
   "short_name": "Docs",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ff69b4",
-  "theme_color": "#ff69b4",
+  "background_color": "#7e56c2",
+  "theme_color": "#7e56c2",
   "icons": [
     {
       "src": "assets/brand/logo-app-192.png",
