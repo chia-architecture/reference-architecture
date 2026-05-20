@@ -47,3 +47,10 @@ European Commission. (2013). *eHealth European Interoperability Framework: Visio
 
 <a id="ref-ec2017"></a>
 European Commission. (2017). *New European Interoperability Framework: Promoting seamless services and data flows for European public administrations.* Publications Office of the European Union.  [doi: 10.2799/78681](https://doi.org/10.2799/78681)
+
+<a id="ref-gdhp2019"></a>
+Global Digital Health Partnership. (2019). *Connected Health: Empowering Health Through Interoperability.* GDHP White Paper.
+
+<a id="ref-gdhp2020"></a>
+Global Digital Health Partnership. (2020). *Advancing Interoperability Together Globally.* GDHP White Paper.
+
