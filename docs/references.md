@@ -42,8 +42,8 @@ Bagolle, A., Park, M., & Marti, M. (2021). *Regulatory frameworks for digital he
 <a id="ref-ops2026"></a>
 Pan American Health Organization. (2026). *Informe regional sobre la situación de los sistemas de información para la salud en las Américas: Acelerando la transformación digital del sector salud en las Américas*. PAHO. [paho-iris: 10665.2/70909](https://iris.paho.org/handle/10665.2/70909)
 
-<a id="ref-ec2017"></a>
-European Commission. (2017). *New European Interoperability Framework: Promoting seamless services and data flows for European public administrations.* Publications Office of the European Union.  [doi: 10.2799/78681](https://doi.org/10.2799/78681)
-
 <a id="ref-ec2013"></a>
 European Commission. (2013). *eHealth European Interoperability Framework: Vision on eHealth EIF (DG Connect).* Publications Office of the European Union. [doi: 10.2759/15839]( https://doi.org/10.2759/15839)
+
+<a id="ref-ec2017"></a>
+European Commission. (2017). *New European Interoperability Framework: Promoting seamless services and data flows for European public administrations.* Publications Office of the European Union.  [doi: 10.2799/78681](https://doi.org/10.2799/78681)
