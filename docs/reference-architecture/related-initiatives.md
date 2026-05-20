@@ -1,7 +1,7 @@
 # Related work
-When building the architecture, all documentation of the referenced initiatives are considered.
+The following section described all related work on interoperability from a legal, organisational, semantic, and technical perspective. The related reference architecture and projects are also listed. 
 
-## Laws & Regulations
+## Legal
 
 **Data Protection & Privacy Laws**
 
@@ -30,7 +30,7 @@ Finally, the principles of privacy by design and by default require that data pr
 
 **Governance, Security & Audit Regulations**
 
-## Trust Frameworks
+### Trust Frameworks
 
 **Trusted Exchange Framework and Common Agreement**
 
@@ -44,7 +44,9 @@ The European Health Data Space (EHDS) is a European Union initiative that establ
 
 In the Netherlands, a national trust framework (landelijk vertrouwensstelsel) is being developed to enable secure and reliable exchange of health data across organisations. It defines the agreements, roles, and conditions under which parties can trust each other, including identity verification, authentication, authorization, and compliance with legal and security requirements. Similar to TEFCA, it focuses on establishing explicit trust relationships, but is more nationally scoped and closely aligned with existing healthcare infrastructure and governance models.
 
-## Terminology and semantics
+## Organisational
+
+## Semantics
 **SNOMED CT**
 
 SNOMED International maintains the most comprehensive clinical terminology, covering diseases, procedures, findings, and more. It enables detailed, computable clinical data and is widely used in national health systems. Strong but complex to implement and maintain.
