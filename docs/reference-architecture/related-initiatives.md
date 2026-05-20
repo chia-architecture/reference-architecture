@@ -1,5 +1,5 @@
 # Related work
-The following section describes all related work on interoperability from a legal, organisational, semantic, and technical perspective. The related reference architecture and projects are also listed. 
+The following section describes all related work on interoperability from a legal, organisational, semantic, and technical perspective. The related reference architectures and projects are also listed. 
 
 ## Legal
 
