@@ -92,9 +92,6 @@ World Health Organization, & International Telecommunication Union. (2020). Digi
 
 Initiated by the IDB and PAHO, the general objective is to provide high-quality, safe, and efficient digital healthcare services in the region and to strengthen regional resilience to epidemics and public health emergencies through the creation of the Pan American Route for Digital Health. The specific objectives are (i) to establish a harmonized legal framework and acquire the necessary regional digital infrastructure for cross-border data exchange; (ii) to improve national preparedness for implementing cross-border digital health services; and (iii) to empower individuals to consult and share their medical data, giving them greater control over their health.
 
-**Cross-border health services within the Caribbean**
-
-The Caribbean Public Health Agency (CARPHA) is the regional public health body for Caribbean Community Member States, established to strengthen and coordinate public health across the region. It brings together multiple former regional institutes into a single organisation, enabling a unified response to public health challenges such as infectious disease outbreaks, non-communicable diseases, environmental health risks, and emergencies. CARPHA supports member states through surveillance, laboratory services, research, and capacity building, including regional laboratory networks and medicines quality control. Through these activities, CARPHA plays a key role in enabling regional coordination, data sharing, and evidence-based decision-making, which are essential for cross-border health collaboration.
 
 **Reports on global barriers for interoperability**
 
