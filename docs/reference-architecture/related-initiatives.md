@@ -55,6 +55,7 @@ Regenstrief Institute maintains a standard for laboratory tests and clinical mea
 
 ## Technical
 
+**Protocols and datastructures**
 *FHIR*
 
 HL7 International maintains the terminology services which determines how terminology systems are used in practice (e.g. value sets, code systems, mappings). Provides APIs for validation, lookup, and translation. Increasingly the operational layer for semantics.
@@ -63,6 +64,7 @@ HL7 International maintains the terminology services which determines how termin
 
 The OpenEHR Foundation maintains the OpenEHR archetypes which defines clinical models (archetypes) with embedded semantics. Strong for structured clinical data, but less globally dominant than SNOMED/LOINC.
 
+**Implementation guides**
 *Integrating the Healthcare Enterprise*
 
 Integrating the Healthcare Enterprise (IHE) is an international initiative that develops practical guidance for implementing interoperability in healthcare systems. Rather than creating new standards, IHE defines integration profiles that specify how existing standards should be used together to support real-world use cases. These profiles describe workflows, roles, and technical interactions between systems, helping vendors and organisations implement interoperable solutions in a consistent and testable way.
