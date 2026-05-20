@@ -45,5 +45,5 @@ Pan American Health Organization. (2026). *Informe regional sobre la situación 
 <a id="ref-ec2017"></a>
 European Commission. (2017). *New European Interoperability Framework: Promoting seamless services and data flows for European public administrations.* Publications Office of the European Union.  [doi: 10.2799/78681](https://doi.org/10.2799/78681)
 
-<a id="ref-ex2013"></a>
+<a id="ref-ec2013"></a>
 European Commission. (2013). *eHealth European Interoperability Framework: Vision on eHealth EIF (DG Connect).* Publications Office of the European Union. [doi: 10.2759/15839]( https://doi.org/10.2759/15839)
