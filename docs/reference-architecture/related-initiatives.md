@@ -25,7 +25,7 @@ Finally, the principles of privacy by design and by default require that data pr
 
 *EHR-regulations*
 
-**Cross-Border Data Exchange Agreements**
+**Cross-Border Data Exchange Laws & Agreements**
 
 *European Health Data Space*
 
