@@ -21,6 +21,7 @@
 | CARPHA | Caribbean Public Health Agency |
 | WHO | World Health Organization |
 | IDB | Inter-American Development Bank |
+| GDHP | Global Digital Health Partnership |
 
 
 
