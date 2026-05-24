@@ -1,10 +1,9 @@
-# [Caribbean Healthcare Interoperability Architecture](https://chia-architecture.github.io/reference-architecture/)
+# [Coopera)
 
 ## Purpose
-Open, collaborative reference architecture for cross-border healthcare data sharing in the Caribbean.
+Open and collaborative reference architecture improving interoperability for cross-border healthcare data sharing in the Caribbean.
 
 ## Scope
-- Primary use (clinical care)
 - Interoperability across borders
 - Governance + technical architecture
 
