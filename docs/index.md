@@ -2,6 +2,8 @@
 
 Healthcare capacity and expertise within the Caribbean naturaly extends beyond national borders.  Cross-border healthcare services such as [patients referrals for treatment](use-cases/planned-referral.md), [laboratory services](use-cases/laboratoryservices-microbiology.md), and [medicine monitoring](use-cases/pharmacovigilance.md) are essential to deliver high-quality care. At the same time, digital health systems remain fragmented, limiting the ability to securely and effectively share information across countries. **Caribbean Healthcare Interoperability Architecture** (Coopera) is a [open](purpose/approach.md) reference architecture that specifies the set of digital building blocks (e.g., health records, patient consent registries, medicine registries) that enable safe, scalable, and compatible cross-border healthcare.
 
+![vision](../assets/views/vision.svg)
+
 # Architecture principles
 
 To enable cross-border healthcare in practice, we define a set of [architecture principles](principles/index.md) that steer how the architecture is designed and applied. These principles translate real-world needs—such as safe data sharing, collaboration across countries, and efficient use of limited resources—into concrete design choices. 
