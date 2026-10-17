@@ -77,3 +77,27 @@ World Health Organization. (n.d.). *SMART Guidelines: Reference Architecture*. [
 
 <a id="ref-pdd"></a>
 Digital Impact Alliance. (n.d.). *Principles for Digital Development*. [digitalprinciples.org](https://digitalprinciples.org/)
+
+<a id="ref-zira2023"></a>
+Nictiz, & The Open Group. (2023). *Hospital Reference Architecture Guide: The complete and expanded English translation of the Dutch ZiRA*. Van Haren Publishing. [vanharen.net](https://www.vanharen.net/store/hospital-reference-architecture-guide-the-complete-and-expanded-english-translation-of-the-dutch-zira)
+
+<a id="ref-zorgring2025"></a>
+Zorgring. (2025). *Regioarchitectuur Noord-Holland: Principes*. Zorgring. [zorgring.nl](https://www.zorgring.nl/wp-content/uploads/2025/04/Regioarchitectuur-NH-Principes-.pdf)
+
+<a id="ref-wilkinson2016"></a>
+Wilkinson, M. D., et al. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Scientific Data, 3*, 160018. [doi: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+
+<a id="ref-fhir"></a>
+HL7 International. (n.d.). *HL7 FHIR*. [hl7.org/fhir](https://hl7.org/fhir/)
+
+<a id="ref-ihe"></a>
+IHE International. (n.d.). *Integrating the Healthcare Enterprise (IHE)*. [ihe.net](https://www.ihe.net/)
+
+<a id="ref-snomed"></a>
+SNOMED International. (n.d.). *SNOMED CT*. [snomed.org](https://www.snomed.org/snomed-ct)
+
+<a id="ref-loinc"></a>
+Regenstrief Institute. (n.d.). *LOINC*. [loinc.org](https://loinc.org/)
+
+<a id="ref-icd"></a>
+World Health Organization. (n.d.). *International Classification of Diseases (ICD)*. [icd.who.int](https://icd.who.int/)

@@ -16,4 +16,4 @@ Countries move at different speeds and use different systems. Loose coupling let
 - Applications can use external data and functions.
 - We avoid vendor lock-in.
 
-<small>Source: Merges the former *Flexible* and *Decouplable* principles, based on ZiRA/Sigra *Flexibel* and *Ontkoppelbaar* ([Sigra 2025](../references.md#ref-sigra2025)). Aligned with the CumuluZ concept of separating data and functionality ([VWS 2025](../references.md#ref-vws2025)) and the modular building blocks of the WHO SMART reference architecture ([WHO n.d.](../references.md#ref-whosmart)).</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [VWS 2025](../references.md#ref-vws2025); [WHO n.d.](../references.md#ref-whosmart); [Nictiz & The Open Group 2023](../references.md#ref-zira2023).</small>

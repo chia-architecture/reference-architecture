@@ -15,4 +15,4 @@ Health budgets in the region are limited. Every investment must show its benefit
 - Use cases with the highest cross-border impact go first (e.g. referrals, laboratory results, outbreak response).
 - We avoid duplicating functionality that already exists nationally or regionally.
 
-<small>Source: Based on ZiRA/Sigra *Waardevol* ([Sigra 2025](../references.md#ref-sigra2025)); aligned with EIF assessment of effectiveness and efficiency ([EC 2017](../references.md#ref-ec2017)) and the outcome-driven approach of the WHO SMART reference architecture ([WHO n.d.](../references.md#ref-whosmart)). Adapted for the Caribbean cross-border context.</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [EC 2017](../references.md#ref-ec2017); [WHO n.d.](../references.md#ref-whosmart); [Nictiz & The Open Group 2023](../references.md#ref-zira2023).</small>

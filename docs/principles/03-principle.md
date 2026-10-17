@@ -15,4 +15,4 @@ Caribbean states differ greatly in size, digital maturity and staffing ([OECD & 
 - Solutions take into account the operational and staffing capacity of small administrations.
 - We build on existing national systems and investments instead of replacing them.
 
-<small>Source: New principle. Aligned with the minimal base layer of the WHO SMART reference architecture ([WHO n.d.](../references.md#ref-whosmart)), and "understand the existing ecosystem" and "build for sustainability" in the Principles for Digital Development ([Digital Impact Alliance n.d.](../references.md#ref-pdd)).</small>
+<small>References: [OECD & World Bank 2023](../references.md#ref-oecd2023); [PAHO 2026](../references.md#ref-ops2026); [WHO n.d.](../references.md#ref-whosmart); [Digital Impact Alliance n.d.](../references.md#ref-pdd).</small>
