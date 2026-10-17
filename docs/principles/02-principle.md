@@ -1,20 +1,18 @@
 # Value-driven
 
-## Explanation  
+## Statement
 
-We only do things that add value, for example for quality improvement, satisfaction of patients or employees, efficiency, and safety.
+We only build or adopt cross-border services that demonstrably add value to quality, safety, access or efficiency of care.
 
 ## Rationale
 
-Healthcare organizations have a societal responsibility to keep care good, accessible, and affordable. This requires conscious choices between aspects that add value, aiming for an optimal balance between costs and benefits.
+Health budgets in the region are limited. Every investment must show its benefit relative to its cost, for patients and for the participating countries.
 
 ## Implications
 
-- We deliver the right care in the right place at the right time.
-- We only implement solutions if they enhance work processes.
-- We measure whether expected value is achieved.
-- We document expected added value and costs in advance.
-- We do not allow duplication in IT functionality.
-- We reduce waste and turn-off unused resources.
+- Each building block or use case states its expected value and costs in advance.
+- Value is measured after implementation and reported back.
+- Use cases with the highest cross-border impact go first (e.g. referrals, laboratory results, outbreak response).
+- We avoid duplicating functionality that already exists nationally or regionally.
 
-<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+<small>Source: Based on ZiRA/Sigra *Waardevol* ([Sigra 2025](../references.md#ref-sigra2025)); aligned with EIF assessment of effectiveness and efficiency ([EC 2017](../references.md#ref-ec2017)) and the outcome-driven approach of the WHO SMART reference architecture ([WHO n.d.](../references.md#ref-whosmart)). Adapted for the Caribbean cross-border context.</small>

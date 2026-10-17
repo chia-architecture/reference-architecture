@@ -33,16 +33,17 @@ nav:
       - Related work: reference-architecture/related-initiatives.md
   - Architecture Principles: 
       - Introduction: principles/index.md
-      - People-centred care: principles/01-principle.md
+      - People-centred: principles/01-principle.md
       - Value-driven: principles/02-principle.md
-      - International: principles/03-principle.md
-      - Reuse before buy: principles/04-principle.md
-      - Secure and robust: principles/05-principle.md
-      - Standardized: principles/06-principle.md
-      - Flexible: principles/07-principle.md
-      - Decouplable: principles/08-principle.md
-      - Single registration: principles/09-principle.md
-      - Continuity: principles/10-principle.md
+      - Incremental and proportionate: principles/03-principle.md
+      - International before national: principles/04-principle.md
+      - Reuse before buy: principles/05-principle.md
+      - Open by default: principles/06-principle.md
+      - Secure and trusted: principles/07-principle.md
+      - Standardised: principles/08-principle.md
+      - Record once at the source: principles/09-principle.md
+      - Modular and decoupled: principles/10-principle.md
+      - Continuous and resilient: principles/11-principle.md
   - Reference Architecture:
       - Introduction: reference-architecture/index.md
       - Terminology: reference-architecture/terminology.md

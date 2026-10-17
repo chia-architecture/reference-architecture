@@ -54,3 +54,26 @@ Global Digital Health Partnership. (2019). *Connected Health: Empowering Health 
 <a id="ref-gdhp2020"></a>
 Global Digital Health Partnership. (2020). *Advancing Interoperability Together Globally.* GDHP White Paper.
 
+<a id="ref-sigra2025"></a>
+Sigra. (2025). *Regioarchitectuur: Architectuurprincipes*. Sigra, in cooperation with Connect4Care and Zorgring. [sigra.nl](https://www.sigra.nl/uploads/2025-06/Sigra%20Architectuurprincipes%202025_1.pdf)
+
+<a id="ref-vws2025"></a>
+Ministerie van Volksgezondheid, Welzijn en Sport. (2025). *Transitieplan Landelijk Dekkend Netwerk via gegevensuitwisseling* (24 February 2025). VWS. [datavoorgezondheid.nl](https://www.datavoorgezondheid.nl/site/binaries/site-content/collections/documents/2025/02/24/transitieplan-landelijk-dekkend-netwerk/20250224+VWS+transitieplan+landelijk+dekkend+netwerk.pdf)
+
+<a id="ref-ehds2025"></a>
+European Parliament and Council of the European Union. (2025). *Regulation (EU) 2025/327 on the European Health Data Space*. Official Journal of the European Union. [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2025/327/oj)
+
+<a id="ref-gdpr"></a>
+European Parliament and Council of the European Union. (2016). *Regulation (EU) 2016/679 (General Data Protection Regulation)*. Official Journal of the European Union. [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+
+<a id="ref-who2021"></a>
+World Health Organization. (2021). *Global strategy on digital health 2020–2025*. WHO. [who: 9789240020924](https://www.who.int/publications/i/item/9789240020924)
+
+<a id="ref-whoitu2020"></a>
+World Health Organization, & International Telecommunication Union. (2020). *Digital health platform handbook: building a digital information infrastructure (infostructure) for health*. WHO.
+
+<a id="ref-whosmart"></a>
+World Health Organization. (n.d.). *SMART Guidelines: Reference Architecture*. [smart.who.int/ra](https://smart.who.int/ra/index.html)
+
+<a id="ref-pdd"></a>
+Digital Impact Alliance. (n.d.). *Principles for Digital Development*. [digitalprinciples.org](https://digitalprinciples.org/)
