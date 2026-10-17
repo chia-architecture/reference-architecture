@@ -16,4 +16,4 @@ Data quality is best guaranteed where data is created. Leaving data at the sourc
 - Data is machine-readable, so it can be reused without re-entry.
 - Designs support secondary use from the start (e.g. public health surveillance, medicines monitoring) within agreed safeguards.
 
-<small>Source: Based on ZiRA/Sigra *Enkelvoudige registratie bij de bron, meervoudig gebruik* ([Sigra 2025](../references.md#ref-sigra2025)); aligned with the data-at-the-source principle of the Dutch national health data network ([VWS 2025](../references.md#ref-vws2025)) and the primary and secondary use of EHDS ([EU 2025](../references.md#ref-ehds2025)).</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [VWS 2025](../references.md#ref-vws2025); [EU 2025](../references.md#ref-ehds2025); [Nictiz & The Open Group 2023](../references.md#ref-zira2023); [Zorgring 2025](../references.md#ref-zorgring2025); [Wilkinson et al. 2016](../references.md#ref-wilkinson2016).</small>
