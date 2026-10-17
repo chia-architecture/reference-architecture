@@ -17,4 +17,4 @@ The region faces hurricanes, earthquakes, outbreaks and unreliable connectivity.
 - Solutions are documented before production.
 - Data is stored so it can be migrated, and an exit strategy is defined before entering a commitment.
 
-<small>Source: Based on ZiRA/Sigra *Continu* ([Sigra 2025](../references.md#ref-sigra2025)); extended with resilience to disasters and connectivity, which is specific to the Caribbean context. Aligned with EIF preservation of information ([EC 2017](../references.md#ref-ec2017)).</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [EC 2017](../references.md#ref-ec2017); [Nictiz & The Open Group 2023](../references.md#ref-zira2023).</small>

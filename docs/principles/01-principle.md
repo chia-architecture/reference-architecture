@@ -16,4 +16,4 @@ Cross-border care exists for people who move or are referred: migrant workers, s
 - Information is offered in the person's language where possible (e.g. English, Spanish, French, Dutch, Papiamento, Kreyòl).
 - Professionals receive the relevant information within their existing workflow, without extra logins or re-entering data.
 
-<small>Source: Based on ZiRA/Sigra *Mens centraal* ([Sigra 2025](../references.md#ref-sigra2025)); aligned with EHDS patient rights ([EU 2025](../references.md#ref-ehds2025)) and EIF user-centricity, inclusion and multilingualism ([EC 2017](../references.md#ref-ec2017)). Adapted for the Caribbean cross-border context.</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [EU 2025](../references.md#ref-ehds2025); [EC 2017](../references.md#ref-ec2017); [WHO 2021](../references.md#ref-who2021); [Nictiz & The Open Group 2023](../references.md#ref-zira2023).</small>

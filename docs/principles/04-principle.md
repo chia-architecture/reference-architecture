@@ -15,4 +15,4 @@ Reusing solutions at the highest suitable level gives economies of scale, unifor
 - National systems connect through agreed interfaces and are not replaced.
 - Where possible, we select and procure solutions jointly with other countries.
 
-<small>Source: Based on ZiRA/Sigra *Landelijk vóór regionaal vóór lokaal* ([Sigra 2025](../references.md#ref-sigra2025)); extended with a regional level. Aligned with EIF subsidiarity and proportionality ([EC 2017](../references.md#ref-ec2017)) and PH4H ([Ramirez et al. 2026](../references.md#ref-ramirez2026)).</small>
+<small>References: [Sigra 2025](../references.md#ref-sigra2025); [EC 2017](../references.md#ref-ec2017); [Ramirez et al. 2026](../references.md#ref-ramirez2026); [Nictiz & The Open Group 2023](../references.md#ref-zira2023); [Zorgring 2025](../references.md#ref-zorgring2025).</small>
