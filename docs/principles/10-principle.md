@@ -1,21 +1,19 @@
-# Continuity
+# Modular and decoupled
 
-## Explanation  
+## Statement
 
-In everything we do, we safeguard continuity of care by identifying and mitigating risks early.
+Solutions are built from independent building blocks with clear interfaces, so each can be replaced or extended without affecting the others.
 
 ## Rationale
 
-Healthcare delivery is critical; continuity must never be at risk.
+Countries move at different speeds and use different systems. Loose coupling lets each country change its systems without breaking cross-border exchange. Modularity also simplifies change, reduces complexity and improves maintainability and scalability.
 
 ## Implications
 
-- We perform risk analyses for changes.
-- We choose proven solutions.
-- Critical systems are highly available.
-- Solutions are documented before production.
-- Innovations are controlled and tested.
-- Data is stored so it can be migrated.
-- Exit strategies are defined beforehand.
+- Data is separated from functionality.
+- Building blocks communicate only through published, standardised interfaces.
+- Functions, data structures and technologies are decoupled, so each can change on its own.
+- Applications can use external data and functions.
+- We avoid vendor lock-in.
 
-<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+<small>Source: Merges the former *Flexible* and *Decouplable* principles, based on ZiRA/Sigra *Flexibel* and *Ontkoppelbaar* ([Sigra 2025](../references.md#ref-sigra2025)). Aligned with the CumuluZ concept of separating data and functionality ([VWS 2025](../references.md#ref-vws2025)) and the modular building blocks of the WHO SMART reference architecture ([WHO n.d.](../references.md#ref-whosmart)).</small>

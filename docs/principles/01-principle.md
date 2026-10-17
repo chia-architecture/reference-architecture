@@ -1,25 +1,19 @@
-# People-centred care
+# People-centred
 
-## Explanation 
+## Statement
 
-In all activities, we place people at the centre—patients, their caregivers, and healthcare professionals.
+Cross-border health information services are designed around the needs of people (patients, their caregivers and health professionals), regardless of the country they are in.
 
 ## Rationale
 
-We provide care to citizens and support healthcare professionals. A strong focus on well-being, experience, and collaboration improves patient outcomes, enhances the quality of care, and contributes to more efficient and sustainable healthcare delivery.
+Cross-border care exists for people who move or are referred: migrant workers, students, visitors and patients treated abroad. Services only work if people trust, understand and can use them. People-centred design is also a core objective of the WHO global digital health strategy ([WHO 2021](../references.md#ref-who2021)).
 
-## Implications 
+## Implications
 
-- We listen to and take into account what all stakeholders say.
-- We ensure communication is understandable for the citizen.
-- Care processes are designed so that professional and citizen decide together (“shared decision-making”).
-- We communicate and treat digitally where possible, while considering citizens with limited digital skills.
-- We enable citizens to take control, e.g. by adding data to their record.
-- We provide care at home when possible, in institutions when necessary.
-- We contribute to the health and wellbeing of employees.
-- Employees are encouraged to bring forward new ideas and are involved in changes.
-- We enable location- and time-independent work where possible.
-- We automate repetitive work.
-- We ensure a user-friendly and inclusive experience briging cultural differences.
+- People can see their own cross-border health data and who has accessed it, and can add to it where national law allows.
+- Consent and preferences are recorded once and respected across borders.
+- Services are accessible and inclusive, including for people with limited digital skills or connectivity.
+- Information is offered in the person's language where possible (e.g. English, Spanish, French, Dutch, Papiamento, Kreyòl).
+- Professionals receive the relevant information within their existing workflow, without extra logins or re-entering data.
 
-<small>Source: Based on ZiRA/Sigra, translated for the caribbean cross-border context.</small>
+<small>Source: Based on ZiRA/Sigra *Mens centraal* ([Sigra 2025](../references.md#ref-sigra2025)); aligned with EHDS patient rights ([EU 2025](../references.md#ref-ehds2025)) and EIF user-centricity, inclusion and multilingualism ([EC 2017](../references.md#ref-ec2017)). Adapted for the Caribbean cross-border context.</small>
