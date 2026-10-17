@@ -23,31 +23,37 @@ Click the “Edit” button on any page to propose a change.
 The repository is organised into the following main sections:
 
 - **/docs**  
-  Core documentation and views, including purpose, principles, architecture, and governance.
+  Source of the documentation website (Markdown). Contains the home page (`index.md`) and general pages such as `about.md`, `contribute.md` and `references.md`.
 
 - **/docs/purpose**  
-  Main motivation and scope of this work.
+  Main motivation, objective, scope and approach of this work.
 
 - **/docs/principles**  
   List of architecture principles.
 
 - **/docs/reference-architecture**  
-  Reusable architecture services, building blocks (e.g. patient identity, consent, terminology services), and interaction models.
+  Terminology, reusable architecture services, building blocks (e.g. patient identity, consent, terminology services), interaction models, architecture decision records and related initiatives.
 
 - **/docs/use-cases**  
   Practical use-cases potentially benefitting from the reference architecture.
 
 - **/docs/assets**  
-  Visual representations, views and logos.
+  Visual representations (`views`) and logos (`brand`).
 
 - **/docs/stylesheets**  
   Style information for the mkdocs website.
+
+- **/overrides**  
+  Template overrides for the mkdocs Material theme.
 
 - **/models**  
   Formal architecture models (e.g. ArchiMate exchange format).
 
 - **/.github**  
-  Contribution templates and repository configuration.
+  Contribution templates (issue templates) and the workflow that publishes the website.
+
+- **mkdocs.yml** and **requirements.txt**  
+  Website configuration (theme, navigation) and the Python dependencies needed to build it.
 
 
 ## License
