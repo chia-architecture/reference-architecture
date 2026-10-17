@@ -47,6 +47,7 @@ nav:
   - Reference Architecture:
       - Introduction: reference-architecture/index.md
       - Terminology: reference-architecture/terminology.md
+      - Legal: reference-architecture/legal.md
       - Services: reference-architecture/services.md
       - Building blocks: reference-architecture/building-blocks.md
       - Interaction models: reference-architecture/interaction-models.md

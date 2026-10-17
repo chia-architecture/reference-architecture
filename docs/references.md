@@ -101,3 +101,9 @@ Regenstrief Institute. (n.d.). *LOINC*. [loinc.org](https://loinc.org/)
 
 <a id="ref-icd"></a>
 World Health Organization. (n.d.). *International Classification of Diseases (ICD)*. [icd.who.int](https://icd.who.int/)
+
+<a id="ref-ihr2005"></a>
+World Health Organization. (2016). *International Health Regulations (2005)* (3rd ed.). WHO. [who.int](https://www.who.int/publications/i/item/9789241580496)
+
+<a id="ref-eidas2014"></a>
+European Parliament and Council of the European Union. (2014). *Regulation (EU) No 910/2014 on electronic identification and trust services (eIDAS)*. Official Journal of the European Union. [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2014/910/oj)
